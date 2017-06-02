@@ -63,6 +63,11 @@ type BasicAuthorizer struct {
 	enforcer *casbin.Enforcer
 }
 
+// set Authorization with username in session on login success
+func SetAuthorizerUserName(ctx *context.Context, userName string) {
+	ctx.Input.CruSession.Set("Authorization", userName)
+}
+
 // GetUserName gets the user name from the request.
 // Currently, only HTTP basic authentication is supported
 func (a *BasicAuthorizer) GetUserName(ctx *context.Context) string {
