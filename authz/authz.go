@@ -65,17 +65,21 @@ type BasicAuthorizer struct {
 
 // GetUserName gets the user name from the request.
 // Currently, only HTTP basic authentication is supported
-func (a *BasicAuthorizer) GetUserName(r *http.Request) string {
-	username, _, _ := r.BasicAuth()
-	return username
+func (a *BasicAuthorizer) GetUserName(ctx *context.Context) string {
+	auth := ctx.Input.CruSession.Get("Authorization")
+	if auth != nil {
+		return auth.(string)
+	}
+
+	return "guest"
 }
 
 // CheckPermission checks the user/method/path combination from the request.
 // Returns true (permission granted) or false (permission forbidden)
-func (a *BasicAuthorizer) CheckPermission(r *http.Request) bool {
-	user := a.GetUserName(r)
-	method := r.Method
-	path := r.URL.Path
+func (a *BasicAuthorizer) CheckPermission(ctx *context.Context) bool {
+	user := a.GetUserName(ctx)
+	method := ctx.Request.Method
+	path := ctx.Request.URL.Path
 	return a.enforcer.Enforce(user, path, method)
 }
 
