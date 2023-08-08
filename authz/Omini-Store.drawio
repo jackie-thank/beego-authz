@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T02:47:24.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="8_OxIYB5xXVzfpGtJiW0" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-08T02:48:37.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="WZFuzJfgT-1wr3DJBYco" version="21.6.2" type="github" pages="2">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2783" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OETo3zo7Fx2HQEZ72Ius" name="omini-channel-order-fulfillment-solution">
-    <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4014" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
         <mxCell id="TZLKUsj_--NPLC1xbzjO-113" value="&lt;div&gt;api&amp;nbsp;&lt;/div&gt;&lt;div&gt;call&lt;/div&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="TZLKUsj_--NPLC1xbzjO-114" target="TZLKUsj_--NPLC1xbzjO-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TZLKUsj_--NPLC1xbzjO-114" value="3RD ERP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="TZLKUsj_--NPLC1xbzjO-114" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-16" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZLKUsj_--NPLC1xbzjO-115" value="&lt;div&gt;api&lt;/div&gt;&lt;div&gt;&amp;nbsp;call&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="TZLKUsj_--NPLC1xbzjO-116" target="TZLKUsj_--NPLC1xbzjO-111">
