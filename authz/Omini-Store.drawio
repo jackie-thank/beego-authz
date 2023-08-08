@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T02:59:31.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MeUVSLMLqFM4NmiuTe3G" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-08T02:09:24.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="XyUyXJNoRT0GJL0wlhkd" version="21.6.2" type="github" pages="2">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2783" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
         <mxCell id="TZLKUsj_--NPLC1xbzjO-2" value="&lt;div&gt;手持设备/iPad/收银机/台式机&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="72" y="-8" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TZLKUsj_--NPLC1xbzjO-3" value="Web Application" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="TZLKUsj_--NPLC1xbzjO-3" value="Dop Application " style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="589" y="-8" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZLKUsj_--NPLC1xbzjO-4" value="api&amp;nbsp; call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.204;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="TZLKUsj_--NPLC1xbzjO-6" target="TZLKUsj_--NPLC1xbzjO-41">
