@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:16:35.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Vp6i4TII3Q7MwzzQB0RU" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:20:53.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="HKZE16bdCPx5tBzaiQVx" version="21.6.2" type="github" pages="3">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2783" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -879,7 +879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iMK-el4yL3ejMqi74xF8" name="WM">
-    <mxGraphModel dx="2427" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -949,14 +949,6 @@
         <mxCell id="LCvVaNfor0KRUVLnCKdb-21" value="仓库2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-10" y="831" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="911" />
-              <mxPoint x="223" y="911" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -964,6 +956,9 @@
               <mxPoint x="340" y="911" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-22" value="销售组织11" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="831" width="120" height="60" as="geometry" />
@@ -978,7 +973,7 @@
           <mxGeometry x="470" y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-28" value="店铺1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="931" width="120" height="60" as="geometry" />
+          <mxGeometry x="154" y="931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-29" value="店铺3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="411" y="931" width="120" height="60" as="geometry" />
@@ -1013,7 +1008,7 @@
           <mxGeometry x="535" y="931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-40" value="店铺2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="288" y="931" width="120" height="60" as="geometry" />
+          <mxGeometry x="283" y="931" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
