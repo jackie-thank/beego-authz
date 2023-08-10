@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:13:05.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7tdjg7MRR4qSY5dE39lM" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:16:35.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Vp6i4TII3Q7MwzzQB0RU" version="21.6.2" type="github" pages="3">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2783" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -996,7 +996,7 @@
             <mxPoint x="680" y="591" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="738" y="561" />
-              <mxPoint x="1070" y="561" />
+              <mxPoint x="1140" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1004,10 +1004,10 @@
           <mxGeometry x="678" y="472" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-34" value="库存树" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1010" y="591" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="591" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-35" value="财务树" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="810" y="591" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="591" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCvVaNfor0KRUVLnCKdb-38" value="店铺4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="535" y="931" width="120" height="60" as="geometry" />
