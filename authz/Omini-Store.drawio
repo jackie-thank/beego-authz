@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:11:30.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="NF9S6VZUazVJeDqw9f6F" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:13:05.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7tdjg7MRR4qSY5dE39lM" version="21.6.2" type="github" pages="3">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2783" dy="2227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,40 +916,40 @@
         <mxCell id="LCvVaNfor0KRUVLnCKdb-10" value="门店" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-20">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-21">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-22">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-23">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-12" target="LCvVaNfor0KRUVLnCKdb-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-12" value="销售组织1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-12" value="销售组织1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="731" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-16" target="LCvVaNfor0KRUVLnCKdb-12">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-16" target="LCvVaNfor0KRUVLnCKdb-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-16" target="LCvVaNfor0KRUVLnCKdb-18">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-16" target="LCvVaNfor0KRUVLnCKdb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-16" value="销售树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-16" value="销售树" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="352" y="591" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-18" value="销售组织2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-18" value="销售组织2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="731" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-20" value="仓库1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-20" value="仓库1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-240" y="831" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-21" value="仓库2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-21" value="仓库2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-10" y="831" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-28">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="911" />
@@ -957,7 +957,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-40">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-22" target="LCvVaNfor0KRUVLnCKdb-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="911" />
@@ -965,54 +965,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-22" value="销售组织11" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-22" value="销售组织11" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="831" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-23" target="LCvVaNfor0KRUVLnCKdb-29">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-23" target="LCvVaNfor0KRUVLnCKdb-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-23" target="LCvVaNfor0KRUVLnCKdb-38">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-23" target="LCvVaNfor0KRUVLnCKdb-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-23" value="销售组织12" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-23" value="销售组织12" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="831" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-28" value="店铺1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-28" value="店铺1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="931" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-29" value="店铺3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="931" width="120" height="60" as="geometry" />
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-29" value="店铺3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="411" y="931" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-16">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-35">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="471" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-34">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1" edge="1" parent="1" source="LCvVaNfor0KRUVLnCKdb-32" target="LCvVaNfor0KRUVLnCKdb-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="591" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="650" y="561" />
+              <mxPoint x="738" y="561" />
               <mxPoint x="1070" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-32" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="472" width="120" height="60" as="geometry" />
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-32" value="租户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="678" y="472" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-34" value="库存树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-34" value="库存树" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1010" y="591" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-35" value="财务树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-35" value="财务树" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="810" y="591" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-38" value="店铺4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-38" value="店铺4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="535" y="931" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LCvVaNfor0KRUVLnCKdb-40" value="店铺2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LCvVaNfor0KRUVLnCKdb-40" value="店铺2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="288" y="931" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
