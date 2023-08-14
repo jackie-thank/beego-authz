@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T06:47:27.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="AeUljxMj4XcR5vO-TE0v" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-14T05:50:44.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zVhCGMUn3xA8gaFA2ufn" version="21.6.2" type="github" pages="5">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OETo3zo7Fx2HQEZ72Ius" name="omini-channel-order-fulfillment-solution">
-    <mxGraphModel dx="1760" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,7 +526,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cepDa91woAA-fm_93A9F-1" value="&lt;div&gt;Apple消息通知平台/&lt;/div&gt;&lt;div&gt;Android消息通知平台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="cepDa91woAA-fm_93A9F-1" value="&lt;div&gt;Apple消息通知平台/&lt;/div&gt;&lt;div&gt;Android消息通知平台&lt;/div&gt;&lt;div&gt;(极光推送)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1310" y="953.5" width="324" height="85" as="geometry" />
         </mxCell>
         <mxCell id="cepDa91woAA-fm_93A9F-6" value="占库存" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cepDa91woAA-fm_93A9F-4" target="TZLKUsj_--NPLC1xbzjO-24">
@@ -691,17 +691,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7Atbi_sZhH_W3Xt91G3F" name="OMO库存管理">
-    <mxGraphModel dx="2049" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qcrUNccxAVlltuIqleMB-1" value="&lt;div&gt;WM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qcrUNccxAVlltuIqleMB-1" value="&lt;div&gt;WM&lt;/div&gt;&lt;div&gt;仓库管理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcrUNccxAVlltuIqleMB-2" value="MM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qcrUNccxAVlltuIqleMB-2" value="&lt;div&gt;MM&lt;/div&gt;&lt;div&gt;单据管理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcrUNccxAVlltuIqleMB-3" value="IM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qcrUNccxAVlltuIqleMB-3" value="&lt;div&gt;IM&lt;/div&gt;&lt;div&gt;逻辑库存管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qcrUNccxAVlltuIqleMB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.118;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="qcrUNccxAVlltuIqleMB-5" target="qcrUNccxAVlltuIqleMB-1">
@@ -738,6 +738,29 @@
         </mxCell>
         <mxCell id="qcrUNccxAVlltuIqleMB-8" value="App/Iphone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="462" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y02xiEl4971Qzua85xGM" name="第 5 页">
+    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FzLsR4hqNRELmEFavJfF-1" value="券码中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FzLsR4hqNRELmEFavJfF-2" value="" style="shape=umlDestroy;dashed=0;targetShapes=umlLifeline;" vertex="1" parent="FzLsR4hqNRELmEFavJfF-1">
+          <mxGeometry x="30" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FzLsR4hqNRELmEFavJfF-3" value="美团" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FzLsR4hqNRELmEFavJfF-4" value="" style="shape=umlDestroy;dashed=0;targetShapes=umlLifeline;" vertex="1" parent="FzLsR4hqNRELmEFavJfF-3">
+          <mxGeometry x="30" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FzLsR4hqNRELmEFavJfF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="140" width="5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
