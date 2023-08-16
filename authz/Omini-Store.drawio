@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T12:01:36.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="bVMCAJEMwfRBO0yEMGlD" version="21.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-16T12:11:39.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="jMxeGqQQFDw822-sJGHo" version="21.6.2" type="github" pages="6">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
           <mxGeometry x="110" y="640" width="380" height="190" as="geometry" />
         </mxCell>
         <mxCell id="e4lO1QpkG7YzboMRtE6N-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="730" width="380" height="190" as="geometry" />
+          <mxGeometry x="-130" y="730" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="e4lO1QpkG7YzboMRtE6N-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="260" width="760" height="90" as="geometry" />
@@ -845,7 +845,7 @@
           <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e4lO1QpkG7YzboMRtE6N-27" value="物理门店" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="140" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e4lO1QpkG7YzboMRtE6N-28" value="门店Entity" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
