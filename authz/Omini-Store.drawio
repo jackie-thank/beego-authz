@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T12:50:11.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JtTOu8KQ28DGJhro5ffe" version="21.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-16T13:01:19.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zd7MtTkz8Gl6pb6N3qGr" version="21.6.2" type="github" pages="7">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -862,7 +862,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="214" y="-90" width="250" height="100" as="geometry" />
+          <mxGeometry x="200" y="-90" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-30" y="210" width="710" height="110" as="geometry" />
@@ -875,23 +875,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-5">
+        <mxCell id="LiqpyvsCgEZ-KN14-Q67-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWi8tqCJqo-z6mYXDw_--1" value="物理门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="279" y="71" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="71" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-1" value="存货点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="533" y="71" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="71" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-2" value="POS门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
@@ -909,13 +900,13 @@
           <mxGeometry x="-30" y="210" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-15" value="店长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="245" y="-78" width="30" height="60" as="geometry" />
+          <mxGeometry x="231" y="-78" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-16" value="店员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="-78" width="30" height="60" as="geometry" />
+          <mxGeometry x="306" y="-78" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-17" value="库存管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="400" y="-78" width="30" height="60" as="geometry" />
+          <mxGeometry x="386" y="-78" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiqpyvsCgEZ-KN14-Q67-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LiqpyvsCgEZ-KN14-Q67-25">
           <mxGeometry relative="1" as="geometry">
