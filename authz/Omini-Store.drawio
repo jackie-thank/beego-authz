@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T09:13:22.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="L7AFQEnU7gx67GaBnvTb" version="21.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-17T10:45:18.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="P2twcPH53QFM2rVh2X4j" version="21.6.2" type="github" pages="9">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1137,6 +1137,14 @@
         <mxCell id="DbP2z_SxMqg-Rg8d9qp5-56" value="行为分析" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="970" y="313" width="70" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mNTHp5geuKQH4QDf9rsk" name="开单收银">
+    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
