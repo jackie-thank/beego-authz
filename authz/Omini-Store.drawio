@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T04:31:06.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SgRcsEYbpUuMOKheIbsR" version="21.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-21T06:42:11.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JHvpFh4vC-8sr6RPaMX5" version="21.6.2" type="github" pages="9">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
-    <mxGraphModel dx="2336" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2181" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OETo3zo7Fx2HQEZ72Ius" name="omini-channel-order-fulfillment-solution">
-    <mxGraphModel dx="4097" dy="3420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,7 +556,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iMK-el4yL3ejMqi74xF8" name="WM">
-    <mxGraphModel dx="1805" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7Atbi_sZhH_W3Xt91G3F" name="OMO库存管理">
-    <mxGraphModel dx="769" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,31 +742,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="y02xiEl4971Qzua85xGM" name="第 5 页">
-    <mxGraphModel dx="794" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="FzLsR4hqNRELmEFavJfF-1" value="券码中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="100" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="FzLsR4hqNRELmEFavJfF-2" value="" style="shape=umlDestroy;dashed=0;targetShapes=umlLifeline;" vertex="1" parent="FzLsR4hqNRELmEFavJfF-1">
-          <mxGeometry x="30" y="360" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FzLsR4hqNRELmEFavJfF-3" value="美团" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="314" y="40" width="100" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="FzLsR4hqNRELmEFavJfF-4" value="" style="shape=umlDestroy;dashed=0;targetShapes=umlLifeline;" vertex="1" parent="FzLsR4hqNRELmEFavJfF-3">
-          <mxGeometry x="30" y="360" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FzLsR4hqNRELmEFavJfF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="140" width="5" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="hvUAY1GjiZlwtZVAJYNa" name="第 6 页">
-    <mxGraphModel dx="1761" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -853,97 +830,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fxOwIvLW-eQqBes7_-7z" name="第 7 页">
-    <mxGraphModel dx="1621" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="170" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="LiqpyvsCgEZ-KN14-Q67-22" target="RWi8tqCJqo-z6mYXDw_--1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-90" width="250" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="210" width="710" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-7" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="LiqpyvsCgEZ-KN14-Q67-6">
-          <mxGeometry x="-0.1583" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="RWi8tqCJqo-z6mYXDw_--1" target="LiqpyvsCgEZ-KN14-Q67-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RWi8tqCJqo-z6mYXDw_--1" value="物理门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="265" y="71" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-1" value="存货点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="519" y="71" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-2" value="POS门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-3" value="京东到家门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-4" value="美团门店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-5" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-14" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;销&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;售&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;店&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;铺&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-30" y="210" width="50" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-15" value="店长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="231" y="-78" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-16" value="店员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="306" y="-78" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-17" value="库存管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="386" y="-78" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LiqpyvsCgEZ-KN14-Q67-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="324" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LiqpyvsCgEZ-KN14-Q67-25" value="消费者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="309" y="390" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="yER-Jx36LCGJDFvT7d6j-1" target="yER-Jx36LCGJDFvT7d6j-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Master&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Store&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="216" y="715" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="yER-Jx36LCGJDFvT7d6j-2" target="yER-Jx36LCGJDFvT7d6j-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Slave&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Store&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="216" y="564" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-4" value="&lt;div&gt;Storage&lt;/div&gt;&lt;div&gt;Location&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="715" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yER-Jx36LCGJDFvT7d6j-7" value="Store Entity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="170" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="GVtwDx2-vrvC5t3K7wWq" name="omo-report solution">
-    <mxGraphModel dx="2514" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
