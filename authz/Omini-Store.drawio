@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T01:52:59.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="3BCMF9l8IEAqFCcBm1mM" version="21.6.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-24T01:57:05.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="y34-J7SMHGgNv0NmetAd" version="21.6.2" type="github" pages="11">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2181" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2260,7 +2260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n_RPesoAeyqimp5alNYH" name="Offline-Transaction">
-    <mxGraphModel dx="2022" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2445,9 +2445,9 @@
             <mxPoint x="436.26800000000003" y="389.5800000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAKjRT-jP3dVt_6YQBTk-86" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;5.&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;会员登录&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.051;exitY=1.014;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" target="JAKjRT-jP3dVt_6YQBTk-68">
+        <mxCell id="JAKjRT-jP3dVt_6YQBTk-86" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;5.&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;会员登录&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;exitX=0.194;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JAKjRT-jP3dVt_6YQBTk-2" target="JAKjRT-jP3dVt_6YQBTk-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70.51999999999998" y="300.84000000000015" as="sourcePoint" />
+            <mxPoint x="-73" y="301" as="sourcePoint" />
             <mxPoint x="-70.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2533,7 +2533,7 @@
             <mxPoint x="130" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAKjRT-jP3dVt_6YQBTk-115" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;order command/&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;hold order command&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.639;exitY=0.988;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" target="JAKjRT-jP3dVt_6YQBTk-114">
+        <mxCell id="JAKjRT-jP3dVt_6YQBTk-115" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;order command/&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;hold order command&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;etc&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.639;exitY=0.988;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" target="JAKjRT-jP3dVt_6YQBTk-114">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="396.39599999999973" y="528.3200000000002" as="sourcePoint" />
             <mxPoint x="395.99999999999955" y="648" as="targetPoint" />
