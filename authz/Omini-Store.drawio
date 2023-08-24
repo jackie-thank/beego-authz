@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T13:02:26.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RlhqS6LA_6oU6IgI7GCm" version="21.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-24T13:02:55.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RqQChVHGixU4gZDML3yb" version="21.6.2" type="github" pages="13">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2114,7 +2114,7 @@
         <mxCell id="ieLvDk61EcW_LUWG00LD-0" />
         <mxCell id="ieLvDk61EcW_LUWG00LD-1" parent="ieLvDk61EcW_LUWG00LD-0" />
         <mxCell id="ieLvDk61EcW_LUWG00LD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-640" y="-110" width="1100" height="830" as="geometry" />
+          <mxGeometry x="-640" y="-110" width="1100" height="810" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="-500" y="-40" width="910" height="370" as="geometry" />
@@ -2173,32 +2173,32 @@
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-54" y="363" as="sourcePoint" />
-            <mxPoint x="-54" y="443" as="targetPoint" />
+            <mxPoint x="-54" y="343" as="sourcePoint" />
+            <mxPoint x="-54" y="423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-500" y="463" width="860" height="220" as="geometry" />
+          <mxGeometry x="-500" y="436" width="860" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-27" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;1:1&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="ieLvDk61EcW_LUWG00LD-1" target="ieLvDk61EcW_LUWG00LD-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="515" as="sourcePoint" />
+            <mxPoint x="-10" y="488" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Storage Location1&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;门店仓库&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="170" y="485" width="140" height="60" as="geometry" />
+          <mxGeometry x="170" y="458" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-30" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store2&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Pos线下店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-483" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="-483" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-31" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store3&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;京东到家线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-310" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="-310" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-32" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store4&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;美团线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-136" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="-136" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-33" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store5&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;高德线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="30" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="30" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1" source="ieLvDk61EcW_LUWG00LD-35" target="ieLvDk61EcW_LUWG00LD-14">
           <mxGeometry relative="1" as="geometry" />
@@ -2232,7 +2232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-43" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store1&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;物理门店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-126" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="-126" y="458" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2554,7 +2554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g46_apCQgYLRLIY1vnAF-0" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store6&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;UNEX私域小程序店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="200" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g46_apCQgYLRLIY1vnAF-2" value="GAP-UNEX-小程序店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
