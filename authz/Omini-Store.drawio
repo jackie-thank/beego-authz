@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T13:04:20.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="9l81ln4-e6Vii_0oTcCg" version="21.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-24T15:39:22.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MH8Pm-Mnac-yN7OAGNYP" version="21.6.2" type="github" pages="13">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1082,7 +1082,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j-oCunxlj4_DeTPM9dXY" name="Business Architecture">
-    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2109,7 +2109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Store-Model 的副本" id="6SvxtLLuH0AsAe0l7YOi">
-    <mxGraphModel dx="4522" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3242" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ieLvDk61EcW_LUWG00LD-0" />
         <mxCell id="ieLvDk61EcW_LUWG00LD-1" parent="ieLvDk61EcW_LUWG00LD-0" />
@@ -2411,7 +2411,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-98" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
-          <mxGeometry x="-178" y="977" width="228" height="40" as="geometry">
+          <mxGeometry x="-178" y="977" width="108" height="40" as="geometry">
             <mxRectangle width="400" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3259,7 +3259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="trkcUecmgcDtu78wJhat" name="OMO-Organzation">
-    <mxGraphModel dx="4841" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3418" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3301,7 +3301,7 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-7" target="TGD57M3pxjwRIvY03kZI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-7" value="Physical Store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-7" value="Physical Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-9" target="TGD57M3pxjwRIvY03kZI-37">
@@ -3319,13 +3319,13 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-10" value="SalesOrg4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-16" value="Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-16" value="Store4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-17" value="Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-17" value="Store3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="238" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-18" value="Storage Location" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-18" value="Storage Location2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="504" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-25" target="TGD57M3pxjwRIvY03kZI-27">
@@ -3337,7 +3337,7 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-25" target="TGD57M3pxjwRIvY03kZI-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-25" value="Physical Store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-25" value="Physical Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-26" value="Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
@@ -3346,7 +3346,7 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-27" value="Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="631" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-28" value="Storage Location" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-28" value="Storage Location1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="892" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-32" target="TGD57M3pxjwRIvY03kZI-34">
@@ -3358,16 +3358,16 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-32" target="TGD57M3pxjwRIvY03kZI-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-32" value="Physical Store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-32" value="Physical Store3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-33" value="Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-33" value="Store6" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-34" value="Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-34" value="Store5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-95" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-35" value="Storage Location" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-35" value="Storage Location3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="162" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-37" target="TGD57M3pxjwRIvY03kZI-44">
@@ -3391,16 +3391,16 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-44" target="TGD57M3pxjwRIvY03kZI-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-44" value="Physical Store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-44" value="Physical Store4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-756" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-45" value="Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-45" value="Store8" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-756" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-46" value="Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-46" value="Store7" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-883" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-47" value="Storage Location" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-47" value="Storage Location4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-629" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGD57M3pxjwRIvY03kZI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-52" target="TGD57M3pxjwRIvY03kZI-54">
@@ -3412,16 +3412,16 @@
         <mxCell id="TGD57M3pxjwRIvY03kZI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="TGD57M3pxjwRIvY03kZI-52" target="TGD57M3pxjwRIvY03kZI-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-52" value="Physical Store" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-52" value="Physical Store5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-334" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-53" value="Store2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-53" value="Store10" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-334" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-54" value="Store1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-54" value="Store9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-461" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGD57M3pxjwRIvY03kZI-55" value="Storage Location" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGD57M3pxjwRIvY03kZI-55" value="Storage Location5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-210" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
