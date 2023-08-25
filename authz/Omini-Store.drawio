@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T01:48:04.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6BEb7fi5D1PRxmKtG-CO" version="21.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-25T10:42:20.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zNBxUUc823GW_CaU2P1E" version="21.6.2" type="github" pages="13">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2714,7 +2714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n_RPesoAeyqimp5alNYH" name="Offline-Transaction">
-    <mxGraphModel dx="1753" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3042,7 +3042,7 @@
         <mxCell id="JAKjRT-jP3dVt_6YQBTk-36" value="SOM_V2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1140" y="545" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JAKjRT-jP3dVt_6YQBTk-60" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;8.5&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;consume&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;minus&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;inventory&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;event&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.873;entryY=-0.031;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;dashed=1;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JAKjRT-jP3dVt_6YQBTk-37" target="JAKjRT-jP3dVt_6YQBTk-127">
+        <mxCell id="JAKjRT-jP3dVt_6YQBTk-60" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;8.5&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;consume&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;minus&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;inventory&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;event&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.874;entryY=-0.01;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;dashed=1;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JAKjRT-jP3dVt_6YQBTk-37" target="JAKjRT-jP3dVt_6YQBTk-127">
           <mxGeometry x="-0.091" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
