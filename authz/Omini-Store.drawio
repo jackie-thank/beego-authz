@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T15:39:22.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MH8Pm-Mnac-yN7OAGNYP" version="21.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-25T01:48:04.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6BEb7fi5D1PRxmKtG-CO" version="21.6.2" type="github" pages="13">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2109,7 +2109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Store-Model 的副本" id="6SvxtLLuH0AsAe0l7YOi">
-    <mxGraphModel dx="3242" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3414" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ieLvDk61EcW_LUWG00LD-0" />
         <mxCell id="ieLvDk61EcW_LUWG00LD-1" parent="ieLvDk61EcW_LUWG00LD-0" />
@@ -2188,16 +2188,16 @@
         <mxCell id="ieLvDk61EcW_LUWG00LD-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Storage Location1&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;门店仓库&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="170" y="458" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ieLvDk61EcW_LUWG00LD-30" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store2&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Pos线下店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="ieLvDk61EcW_LUWG00LD-30" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store1&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Pos线下店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="-483" y="583" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ieLvDk61EcW_LUWG00LD-31" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store3&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;京东到家线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="ieLvDk61EcW_LUWG00LD-31" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store2&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;京东到家线上店&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="-310" y="583" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ieLvDk61EcW_LUWG00LD-32" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store4&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;美团线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="ieLvDk61EcW_LUWG00LD-32" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store3&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;美团线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="-136" y="583" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ieLvDk61EcW_LUWG00LD-33" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store5&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;高德线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="ieLvDk61EcW_LUWG00LD-33" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store4&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;高德线上店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="30" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1" source="ieLvDk61EcW_LUWG00LD-35" target="ieLvDk61EcW_LUWG00LD-14">
@@ -2231,7 +2231,7 @@
         <mxCell id="g46_apCQgYLRLIY1vnAF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1" source="ieLvDk61EcW_LUWG00LD-43" target="g46_apCQgYLRLIY1vnAF-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ieLvDk61EcW_LUWG00LD-43" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store1&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;物理门店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="ieLvDk61EcW_LUWG00LD-43" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Physical Store&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;物理门店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="-126" y="458" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieLvDk61EcW_LUWG00LD-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="ieLvDk61EcW_LUWG00LD-1">
@@ -2553,7 +2553,7 @@
             <mxRectangle width="190" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g46_apCQgYLRLIY1vnAF-0" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store6&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;UNEX私域小程序店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
+        <mxCell id="g46_apCQgYLRLIY1vnAF-0" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Store5&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;-&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;UNEX私域小程序店&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
           <mxGeometry x="200" y="583" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g46_apCQgYLRLIY1vnAF-2" value="GAP-UNEX-小程序店" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="ieLvDk61EcW_LUWG00LD-1">
@@ -2563,7 +2563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vlayzJxjRQoQQveq-x4a" name="Logical Architecture">
-    <mxGraphModel dx="2514" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3259,7 +3259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="trkcUecmgcDtu78wJhat" name="OMO-Organzation">
-    <mxGraphModel dx="3418" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3610" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
