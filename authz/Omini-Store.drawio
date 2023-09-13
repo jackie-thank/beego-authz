@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T01:59:59.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="a_79lUs3vF_WCEm6R8Bb" version="21.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-09-13T02:05:35.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="mXc87Lt3l9CagWxyLvXR" version="21.6.2" type="github" pages="14">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3504,7 +3504,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fyiV03OAYYrmo7ZwjCXO" name="第 14 页">
+  <diagram id="fyiV03OAYYrmo7ZwjCXO" name="physical-store">
     <mxGraphModel dx="3088" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
