@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T07:18:05.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fagvrpH3IiiKBwQjeAi2" version="21.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-09-20T07:59:17.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="q6FkrNh5fgxxJ0v5vyFJ" version="21.6.2" type="github" pages="14">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3384,58 +3384,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-3" value="1:N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-1" target="KB2dgS4ZRS2i8ysVxMrz-2">
+        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-3" value="1:N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-1" target="KB2dgS4ZRS2i8ysVxMrz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Store&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;（店）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="476" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-220" y="359" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-9" value="1:N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-2" target="KB2dgS4ZRS2i8ysVxMrz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;AppType&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;（应用类型）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="476" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="101" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-6" value="1:N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-4" target="KB2dgS4ZRS2i8ysVxMrz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-4" value="Product" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="101" y="1" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-7" value="1:1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-5" target="KB2dgS4ZRS2i8ysVxMrz-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="400" />
-              <mxPoint x="536" y="400" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-7" value="1:1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-5" target="KB2dgS4ZRS2i8ysVxMrz-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-5" value="Experience" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="101" y="171" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="KB2dgS4ZRS2i8ysVxMrz-8" target="KB2dgS4ZRS2i8ysVxMrz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-8" value="&lt;div&gt;Terminal&lt;/div&gt;&lt;div&gt;Instance&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="430" as="sourcePoint" />
-            <mxPoint x="360" y="500" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="406" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;POS收银端：每个门店有多台&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;自助收银端：每个门店有多台&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;小程序：每个用户都可以实例化一个&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;官网：每个用户可以实例化一个&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="265" width="270" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="540" width="540" height="175" as="geometry" />
+          <mxGeometry x="630" y="354" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-18" value="Price" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-220" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-220" y="1" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KB2dgS4ZRS2i8ysVxMrz-19" value="Inventory" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-490" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-490" y="1" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KB2dgS4ZRS2i8ysVxMrz-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="340" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
