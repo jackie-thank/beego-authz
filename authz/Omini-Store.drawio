@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T05:45:53.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="J81QNOnm80xLXaSS_rpN" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T05:50:18.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="a292Xgwimb-4iuannbGa" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3718,7 +3718,7 @@
           <mxGeometry x="45" y="130" width="10" height="273" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-1">
-          <mxGeometry x="45" y="595" width="10" height="212" as="geometry" />
+          <mxGeometry x="45" y="598" width="10" height="212" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-19" value="请求-取消订单" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="jMd3lAbZxZCh7hlj5vfz-1">
           <mxGeometry relative="1" as="geometry">
