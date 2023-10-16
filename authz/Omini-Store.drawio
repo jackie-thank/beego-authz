@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:25:51.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="lfxTFtNu2DnCm6He7duT" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T04:29:10.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="5uOkhLSEahEhSb9zZFie" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3858,11 +3858,11 @@
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-34" value="&lt;div&gt;调整购物车&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="641.0000000000001" as="sourcePoint" />
-            <mxPoint x="-125" y="667" as="targetPoint" />
+            <mxPoint x="-125" y="639.0000000000001" as="sourcePoint" />
+            <mxPoint x="-125" y="665" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-70" y="641" />
-              <mxPoint x="-70" y="667" />
+              <mxPoint x="-70" y="639" />
+              <mxPoint x="-70" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
