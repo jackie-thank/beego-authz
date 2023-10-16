@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T05:07:01.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="_a-4qJLrJRs3ksFdJWF4" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T05:08:03.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="sYOzoJJjXp27bsU0tpJJ" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3844,13 +3844,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-31" value="请求-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#000000;" edge="1" parent="1">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-31" value="请求-取消预占(By SN)" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="403" y="568.9976190476191" as="sourcePoint" />
             <mxPoint x="565" y="569.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-32" value="返回-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-32" value="返回-取消预占(By SN)" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#FF0000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="601" as="sourcePoint" />
             <mxPoint x="403" y="601.2428571428571" as="targetPoint" />
@@ -3894,13 +3894,13 @@
             <mxPoint x="396" y="794.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-50" value="请求-预占库存" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#ff0000;" edge="1" parent="1">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-50" value="请求-预占库存(By SN)" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#ff0000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="807.9976190476191" as="sourcePoint" />
             <mxPoint x="567" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-51" value="返回-预占库存" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-51" value="返回-预占库存(By SN)" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="566" y="828" as="sourcePoint" />
             <mxPoint x="404" y="828.2428571428571" as="targetPoint" />
