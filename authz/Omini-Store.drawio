@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:20:30.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ccIakCj3ymF0ICpJftDA" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T04:21:27.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="D-3ZEb65penwVtpgymNf" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3756,7 +3756,7 @@
           <mxGeometry x="350" y="160" width="100" height="860" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-5">
-          <mxGeometry x="45" y="284" width="10" height="171" as="geometry" />
+          <mxGeometry x="45" y="351" width="10" height="104" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-5">
           <mxGeometry x="45" y="585" width="10" height="65" as="geometry" />
@@ -3774,7 +3774,7 @@
           <mxGeometry x="520" y="160" width="100" height="860" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-9">
-          <mxGeometry x="45" y="334" width="10" height="120" as="geometry" />
+          <mxGeometry x="45" y="390" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-9">
           <mxGeometry x="45" y="598" width="10" height="39" as="geometry" />
@@ -3836,24 +3836,24 @@
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-30" value="&lt;div&gt;消费-&lt;/div&gt;&lt;div&gt;取消订单事件&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="481" as="sourcePoint" />
-            <mxPoint x="405" y="509.9999999999999" as="targetPoint" />
+            <mxPoint x="405" y="520" as="sourcePoint" />
+            <mxPoint x="405" y="548.9999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="481" />
-              <mxPoint x="450" y="510" />
+              <mxPoint x="450" y="520" />
+              <mxPoint x="450" y="549" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-31" value="请求-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" target="jMd3lAbZxZCh7hlj5vfz-10">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-31" value="请求-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="545.9976190476191" as="sourcePoint" />
-            <mxPoint x="553" y="546.0928571428572" as="targetPoint" />
+            <mxPoint x="403" y="568.9976190476191" as="sourcePoint" />
+            <mxPoint x="565" y="569.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-32" value="返回-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="jMd3lAbZxZCh7hlj5vfz-10">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-32" value="返回-取消预占" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="553" y="598.004761904762" as="sourcePoint" />
-            <mxPoint x="403" y="598.2428571428571" as="targetPoint" />
+            <mxPoint x="565" y="601" as="sourcePoint" />
+            <mxPoint x="403" y="601.2428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-34" value="&lt;div&gt;调整购物车&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
