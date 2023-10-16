@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T05:08:03.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="sYOzoJJjXp27bsU0tpJJ" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T05:10:13.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="_Ltni7ylI8sRIAystAv5" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3701,7 +3701,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7I8SuRAkPOy-7F4Y1d6W" name="第 18 页">
-    <mxGraphModel dx="2235" dy="732" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="502" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
