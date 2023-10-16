@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:21:27.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="D-3ZEb65penwVtpgymNf" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T04:21:37.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="3Wo8pkIn9zh7C8oHb3_n" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3957,11 +3957,11 @@
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-61" value="发布-取消订单事件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="-0.0056" relative="1" as="geometry">
-            <mxPoint x="214" y="450" as="sourcePoint" />
-            <mxPoint x="214" y="478.9999999999999" as="targetPoint" />
+            <mxPoint x="214" y="452" as="sourcePoint" />
+            <mxPoint x="214" y="480.9999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="259" y="450" />
-              <mxPoint x="259" y="479" />
+              <mxPoint x="259" y="452" />
+              <mxPoint x="259" y="481" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
