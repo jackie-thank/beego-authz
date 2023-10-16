@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:29:43.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="74aqNl0ak484nEOTb3bD" version="21.6.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-10-16T05:06:20.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="bRjnKC66fRJzKf6inj4n" version="21.6.2" type="github" pages="18">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3715,9 +3715,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;fontSize=18;fontStyle=1" vertex="1" parent="jMd3lAbZxZCh7hlj5vfz-1">
-          <mxGeometry x="45" y="156" width="10" height="247" as="geometry" />
+          <mxGeometry x="45" y="130" width="10" height="273" as="geometry" />
         </mxCell>
-        <mxCell id="jMd3lAbZxZCh7hlj5vfz-19" value="取消订单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="jMd3lAbZxZCh7hlj5vfz-1">
+        <mxCell id="jMd3lAbZxZCh7hlj5vfz-19" value="取消订单逻辑" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="jMd3lAbZxZCh7hlj5vfz-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="252" as="sourcePoint" />
             <mxPoint x="55" y="280.9999999999999" as="targetPoint" />
@@ -3796,24 +3796,24 @@
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-24" value="判断订单状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="291" as="sourcePoint" />
-            <mxPoint x="55" y="320" as="targetPoint" />
+            <mxPoint x="55" y="354" as="sourcePoint" />
+            <mxPoint x="55" y="383" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="291" />
-              <mxPoint x="100" y="320" />
+              <mxPoint x="100" y="354" />
+              <mxPoint x="100" y="383" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-25" value="请求-查询订单" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56" y="337.997619047619" as="sourcePoint" />
-            <mxPoint x="206" y="338.0928571428571" as="targetPoint" />
+            <mxPoint x="56" y="303.997619047619" as="sourcePoint" />
+            <mxPoint x="206" y="304.0928571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-26" value="返回-查询订单" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="369.00476190476195" as="sourcePoint" />
-            <mxPoint x="55" y="369.24285714285713" as="targetPoint" />
+            <mxPoint x="205" y="336.00476190476195" as="sourcePoint" />
+            <mxPoint x="55" y="336.24285714285713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jMd3lAbZxZCh7hlj5vfz-27" value="请求-添加购物车" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
