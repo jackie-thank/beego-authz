@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T12:54:58.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="XoG9jnxRJOBCVRtV_Bo9" version="21.6.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-10-19T13:01:27.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="vhSGZZYA7fvuGCErfdJo" version="21.6.2" type="github" pages="19">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4010,7 +4010,7 @@
           <mxGeometry x="-183" y="160" width="100" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="D8hS_FzgBUCLmZAlVazE-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;fontStyle=1" vertex="1" parent="D8hS_FzgBUCLmZAlVazE-6">
-          <mxGeometry x="47" y="65" width="10" height="598" as="geometry" />
+          <mxGeometry x="47" y="65" width="10" height="572" as="geometry" />
         </mxCell>
         <mxCell id="D8hS_FzgBUCLmZAlVazE-8" value="选择订单，点“订单退货”按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="D8hS_FzgBUCLmZAlVazE-6">
           <mxGeometry relative="1" as="geometry">
@@ -4075,13 +4075,13 @@
             <mxPoint x="55" y="456.24285714285713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8hS_FzgBUCLmZAlVazE-27" value="&lt;div&gt;请求-退款&lt;/div&gt;&lt;div&gt;( 参数：)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="1">
+        <mxCell id="D8hS_FzgBUCLmZAlVazE-27" value="&lt;div&gt;请求-退款&lt;/div&gt;&lt;div&gt;( 参数：)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="590.7576190476191" as="sourcePoint" />
             <mxPoint x="206" y="590.8528571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8hS_FzgBUCLmZAlVazE-28" value="返回-添加购物车" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+        <mxCell id="D8hS_FzgBUCLmZAlVazE-28" value="返回-退款" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="756.004761904762" as="sourcePoint" />
             <mxPoint x="55" y="756.2428571428571" as="targetPoint" />
