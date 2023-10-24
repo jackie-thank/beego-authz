@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T06:16:57.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="QHpjUcfU7FY4lLwplEeU" version="21.6.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-10-24T06:19:53.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="TU04sLr-3SfxA5PjJeIT" version="21.6.2" type="github" pages="20">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4250,7 +4250,7 @@
         <mxCell id="-VxyfWM-lKFz9a_eADlp-3" value="Model Type" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="106" y="-138" width="208" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="-VxyfWM-lKFz9a_eADlp-4" value="Select" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1">
+        <mxCell id="-VxyfWM-lKFz9a_eADlp-4" value="Generate" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="333" y="-87" as="sourcePoint" />
             <mxPoint x="424" y="-86" as="targetPoint" />
@@ -4297,6 +4297,14 @@
         </mxCell>
         <mxCell id="-VxyfWM-lKFz9a_eADlp-18" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;protocol：&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;arrayList：Object {&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;0. column name&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;1. column value：key(data key)&lt;/div&gt;&lt;div&gt;2. column type&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;3. column width&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;4. column height&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;5. column space&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="1248" y="-57" width="221" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="HMUhTIowu6tWipXF3Y8w-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Select&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Fields&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;and&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;configure&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fontSize=15;fontStyle=1" edge="1" parent="1" source="-VxyfWM-lKFz9a_eADlp-2" target="-VxyfWM-lKFz9a_eADlp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="497" y="-221" />
+              <mxPoint x="601" y="-221" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
