@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T06:19:53.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="TU04sLr-3SfxA5PjJeIT" version="21.6.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-10-24T06:20:16.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="dJARIe9cCo-ysqnO9hiS" version="21.6.2" type="github" pages="20">
   <diagram name="OMO-Architecture" id="fM9cQ64jWWIwdQak-fT2">
     <mxGraphModel dx="2485" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4301,8 +4301,8 @@
         <mxCell id="HMUhTIowu6tWipXF3Y8w-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Select&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Fields&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;and&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;configure&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fontSize=15;fontStyle=1" edge="1" parent="1" source="-VxyfWM-lKFz9a_eADlp-2" target="-VxyfWM-lKFz9a_eADlp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="497" y="-221" />
-              <mxPoint x="601" y="-221" />
+              <mxPoint x="497" y="-208" />
+              <mxPoint x="601" y="-208" />
             </Array>
           </mxGeometry>
         </mxCell>
