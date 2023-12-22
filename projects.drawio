@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T06:04:59.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="01kDbre_yMYgfoly8vYR" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T06:08:04.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="EpZRxN5kqX0mHvCe2F-_" version="21.6.2" type="github">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2209" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,8 +207,8 @@
         <mxCell id="NwNGN2U4M8h-qFCYJlfa-62" value="WMS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="757" y="958" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NwNGN2U4M8h-qFCYJlfa-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="310" width="250" height="80" as="geometry" />
+        <mxCell id="NwNGN2U4M8h-qFCYJlfa-65" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;logic：&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;根据open_uid+store_code确定在单一店铺下的下单人&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;根据open_uid+saas_tenant_code可以确定在租户下的下单人&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#97D077;align=left;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="290" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
