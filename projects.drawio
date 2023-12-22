@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T06:09:56.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Thg4H5e-vS-z4kw4mv-z" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T06:11:04.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="unwISnJjLZtOyM4yAyqi" version="21.6.2" type="github">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2778" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NwNGN2U4M8h-qFCYJlfa-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-80" width="1010" height="1130" as="geometry" />
+          <mxGeometry x="390" y="-80" width="1010" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="NwNGN2U4M8h-qFCYJlfa-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=15;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="713" y="51" width="350" height="130" as="geometry" />
@@ -209,6 +209,14 @@
         </mxCell>
         <mxCell id="NwNGN2U4M8h-qFCYJlfa-65" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;logic：&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;根据open_uid+store_code确定在天猫平台下单一店铺下的下单人&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;根据open_uid+saas_tenant_code+store_codes可以确定在租户下天猫平台多家店铺的下单人&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#97D077;align=left;fontSize=15;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1040" y="270" width="333" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NwNGN2U4M8h-qFCYJlfa-66" value="&lt;div&gt;generate&lt;/div&gt;&lt;div&gt;omni_channel&lt;/div&gt;&lt;div&gt;unified user &lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="NwNGN2U4M8h-qFCYJlfa-30" target="NwNGN2U4M8h-qFCYJlfa-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="1060" />
+              <mxPoint x="191" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
