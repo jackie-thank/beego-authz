@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T06:27:02.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="s9vV0N0VmmLEiUPVfmxc" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T06:30:07.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HwapGEh_QikI9FEyO8IL" version="21.6.2" type="github" pages="3">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,13 +355,13 @@
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-4" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="315" y="525" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-5" value="游戏1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-5" value="软件1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="364" y="89.38" width="50" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-6" value="游戏2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-6" value="软件2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="483" y="89.38" width="50" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-7" value="游戏N" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-7" value="软件N" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="89.38" width="50" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-10" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
@@ -386,7 +386,7 @@
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="6pAJUWhzT5FIKgM3bSaH-20" target="6pAJUWhzT5FIKgM3bSaH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-20" value="运营" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-20" value="人员" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="89.38000000000001" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-26" value="配置模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fontFamily=Helvetica;fontSize=18;fillColor=#b0e3e6;fontStyle=1" vertex="1" parent="1">
