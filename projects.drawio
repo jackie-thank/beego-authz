@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T03:55:40.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ZzDp1YD6xFROvlACjbiO" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T03:56:31.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="6KPDS1PhP3rNrfjmJCl5" version="21.6.2" type="github" pages="3">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="3241" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,16 +343,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="159" y="40.01" width="160" height="131.25" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="470" height="131.25" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="310" width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-4" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-4" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=18;fillColor=#dae8fc;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="315" y="525" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-5" value="游戏1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=1" vertex="1" parent="1">
@@ -389,19 +389,19 @@
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-20" value="运营" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;rounded=1;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="89.38000000000001" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-26" value="配置模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-26" value="配置模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fontFamily=Helvetica;fontSize=18;fillColor=#b0e3e6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-27" value="查询模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-27" value="查询模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fontFamily=Helvetica;fontSize=18;fillColor=#b0e3e6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="176.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-28" value="版本更新" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-28" value="版本更新" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fontFamily=Helvetica;fontSize=18;fillColor=#b0e3e6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-36" value="后台页面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-36" value="后台页面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="159" y="40.01" width="160" height="29.99" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-37" value="游戏网站" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-37" value="游戏网站" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="470" height="29.99" as="geometry" />
         </mxCell>
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-25" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;查询&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;游戏版本号&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.785;entryY=0.998;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=default;entryPerimeter=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="6pAJUWhzT5FIKgM3bSaH-28" target="6pAJUWhzT5FIKgM3bSaH-2">
@@ -416,7 +416,7 @@
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-29" value="&lt;div&gt;config&lt;/div&gt;&lt;div&gt;game version expr&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="6pAJUWhzT5FIKgM3bSaH-26" target="6pAJUWhzT5FIKgM3bSaH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-38" value="探测系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-38" value="探测系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="296.5" y="310" width="160" height="29.99" as="geometry" />
         </mxCell>
       </root>
