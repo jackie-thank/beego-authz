@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T06:31:34.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="67a7DykkkJzp3ExXiHQO" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-25T08:02:45.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="vHUIUXJttTbk_LI3_Cge" version="21.6.2" type="github" pages="3">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-36" value="后台页面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="159" y="40.01" width="160" height="29.99" as="geometry" />
         </mxCell>
-        <mxCell id="6pAJUWhzT5FIKgM3bSaH-37" value="游戏网站" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6pAJUWhzT5FIKgM3bSaH-37" value="网站" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=20;fillColor=#bac8d3;shadow=0;glass=0;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="470" height="29.99" as="geometry" />
         </mxCell>
         <mxCell id="6pAJUWhzT5FIKgM3bSaH-25" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;查询&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;软件&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;版本号&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.785;entryY=0.998;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;fontColor=default;entryPerimeter=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="6pAJUWhzT5FIKgM3bSaH-28" target="6pAJUWhzT5FIKgM3bSaH-2">
