@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T09:43:10.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="8_eEwg_DAjb_8q2pQpfe" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-02T09:43:59.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="P9EEzaLflqGQoaxJeqKr" version="24.1.0" type="github" pages="5">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -598,7 +598,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WDzY1hd5kvEkBmYAao6E" name="第 5 页">
-    <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -674,8 +674,10 @@
         <mxCell id="s0dDa1csAjEazmvBy15w-13" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-450" y="-200" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s0dDa1csAjEazmvBy15w-16" value="&lt;div&gt;每天&lt;/div&gt;&lt;div&gt;全量商品价格&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.114;exitY=1.017;exitDx=0;exitDy=0;entryX=0.081;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-13" target="s0dDa1csAjEazmvBy15w-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s0dDa1csAjEazmvBy15w-16" value="&lt;div&gt;每天同步&lt;/div&gt;&lt;div&gt;全量商品价格&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.081;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;exitX=0.156;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-13" target="s0dDa1csAjEazmvBy15w-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-343" y="-120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s0dDa1csAjEazmvBy15w-34" value="订单" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=1" edge="1" parent="1" target="s0dDa1csAjEazmvBy15w-4">
           <mxGeometry relative="1" as="geometry">
