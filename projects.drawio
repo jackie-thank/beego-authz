@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T09:46:06.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3t6THDldtK36k6G2gYJe" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-02T10:17:23.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="on_a48dst13svzL7c0Zo" version="24.1.0" type="github" pages="6">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -597,7 +597,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WDzY1hd5kvEkBmYAao6E" name="第 5 页">
+  <diagram id="WDzY1hd5kvEkBmYAao6E" name="ferragamo-solution">
     <mxGraphModel dx="2514" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -784,6 +784,14 @@
         <mxCell id="UwlZ7u-WRPEozVd7HBKb-15" value="WMS4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="-202.5" width="230" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K5REgULz-o6k2h87LEv6" name="b05-event-desigin">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
