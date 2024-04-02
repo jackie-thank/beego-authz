@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T03:48:37.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="yNF-FjPaO-dLqOxP8NCc" version="24.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-02T03:48:53.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eprkD-pPOZCvD7cURPWn" version="24.1.0" type="github" pages="4">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,8 +470,8 @@
         <mxCell id="MgwcdJf2q-tNtH4itR7g-118" value="call api" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.69;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="MgwcdJf2q-tNtH4itR7g-66" target="MgwcdJf2q-tNtH4itR7g-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="30" />
-              <mxPoint x="255" y="30" />
+              <mxPoint x="334" y="100" />
+              <mxPoint x="255" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
