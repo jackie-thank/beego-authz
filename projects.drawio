@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T01:58:05.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="FcGKKQZUIimdZFAXVYkM" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-03T01:59:24.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="zCPucraCP3Dm7EoP6zQN" version="24.1.0" type="github" pages="8">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -788,7 +788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K5REgULz-o6k2h87LEv6" name="b05-event-desigin">
-    <mxGraphModel dx="2022" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -874,7 +874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CTojYJ-D7Xap9f76VVIC" name="business-system-improvement">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,6 +959,14 @@
         <mxCell id="cyVjZ4lSQ85dribg75iT-77" value="&lt;div&gt;支持实时取数，事件是唯一通道，各Domain需要完整的暴露领域事件：&lt;/div&gt;&lt;div&gt;1. 出入库状态变化-MM&lt;/div&gt;&lt;div&gt;2. 库存流水变化-IM&lt;/div&gt;&lt;div&gt;3. 订单领域事件丰富&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="915" y="-470" width="510" height="90" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ui5bXdwJv0OaUTicNDrO" name="inventory-snapshot-solution">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
