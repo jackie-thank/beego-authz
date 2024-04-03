@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T01:55:52.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="hdjUKUhXi-7CLnV3IbTS" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-03T01:58:05.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="FcGKKQZUIimdZFAXVYkM" version="24.1.0" type="github" pages="7">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -874,7 +874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CTojYJ-D7Xap9f76VVIC" name="business-system-improvement">
-    <mxGraphModel dx="1687" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
