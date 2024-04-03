@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T02:22:16.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="F3YvoJGg-l6gmcLG1zz8" version="24.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-03T02:24:54.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="lVdzdaDjd_G8bIo99pru" version="24.1.0" type="github" pages="8">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1049,7 +1049,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KcH1RctfDhWzHJkqaJEd-30" value="&lt;div&gt;RMQ协议设计：&lt;/div&gt;&lt;div&gt;Header：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;增加当前库存快照总数量（在消费端能判断当前数据是否已经处理完成，消息队列会批次投递，如果收到的数据和总数量不匹配，则可以告警）&lt;/div&gt;&lt;div&gt;Body：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;复用库存快照数据协议&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="690" y="290" width="210" height="140" as="geometry" />
+          <mxGeometry x="690" y="387" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KcH1RctfDhWzHJkqaJEd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="KcH1RctfDhWzHJkqaJEd-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcH1RctfDhWzHJkqaJEd-32" value="排队生成，可以控制并发，降低insert...select带来对数据库的冲击" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
