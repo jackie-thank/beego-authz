@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T03:03:40.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Pe8oDYKbRmgmKvajcT3O" version="24.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:39:42.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="yyNm170gKaagQi3xb5eT" version="24.1.0" type="github" pages="8">
   <diagram name="P&amp;G-promotion-solution" id="RDBFxmjS9sqyvhYii-Ov">
     <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -764,7 +764,7 @@
         <mxCell id="UwlZ7u-WRPEozVd7HBKb-6" value="全量商品推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-8" target="s0dDa1csAjEazmvBy15w-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UwlZ7u-WRPEozVd7HBKb-7" value="全量场频推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0.108;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-5" target="s0dDa1csAjEazmvBy15w-7">
+        <mxCell id="UwlZ7u-WRPEozVd7HBKb-7" value="全量商品推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0.108;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-5" target="s0dDa1csAjEazmvBy15w-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UwlZ7u-WRPEozVd7HBKb-8" value="全量商品推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.102;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="s0dDa1csAjEazmvBy15w-7" target="s0dDa1csAjEazmvBy15w-3">
