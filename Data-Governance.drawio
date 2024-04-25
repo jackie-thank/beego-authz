@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T07:36:18.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="9kA1ojrSmdM_x_q1Qqyt" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-25T08:15:50.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="KkKIC47ZsaHuz_JPNgyJ" version="24.1.0" type="github" pages="2">
   <diagram name="business-system-fetch-data" id="2zwWI6rYxvFrpTjRpGLl">
-    <mxGraphModel dx="3695" dy="2677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,7 @@
           <mxGeometry x="2140" y="520.5" width="200" height="28" as="geometry" />
         </mxCell>
         <mxCell id="w1NT4D3f_hbIPWU9u6wB-88" value="By项目业务逻辑处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="566" width="1080" height="34" as="geometry" />
+          <mxGeometry x="1270" y="568" width="1080" height="34" as="geometry" />
         </mxCell>
         <mxCell id="w1NT4D3f_hbIPWU9u6wB-89" value="调用API组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1282" y="654" width="520" height="28" as="geometry" />
@@ -287,6 +287,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CA_nxg66wJtUZ_PUIQGV-1" value="Doris" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="720" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CA_nxg66wJtUZ_PUIQGV-2" value="DMS Service" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CA_nxg66wJtUZ_PUIQGV-3" value="Task" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
