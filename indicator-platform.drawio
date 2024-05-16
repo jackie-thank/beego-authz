@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T03:29:12.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="73rk7w44CSF8_5R9VUOJ" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-16T03:30:05.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="99j0uHfKCfiHLVN2fw8p" version="24.3.1" type="github" pages="4">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,22 +101,22 @@
         <mxCell id="VfAITodiY_IkIiJzmOLr-4" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="950" y="574" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-5" target="VfAITodiY_IkIiJzmOLr-15">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-5" target="VfAITodiY_IkIiJzmOLr-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-5" value="&lt;div&gt;指标平台&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="160" width="1200" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-6" target="VfAITodiY_IkIiJzmOLr-7">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-6" target="VfAITodiY_IkIiJzmOLr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.756;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-6" target="VfAITodiY_IkIiJzmOLr-8">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.756;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-6" target="VfAITodiY_IkIiJzmOLr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-6" value="原子指标" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="384" width="1130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-7" target="VfAITodiY_IkIiJzmOLr-8">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-7" target="VfAITodiY_IkIiJzmOLr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-7" value="衍生指标" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
@@ -128,12 +128,12 @@
         <mxCell id="VfAITodiY_IkIiJzmOLr-9" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontStyle=1;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="900" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.406;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-10" target="VfAITodiY_IkIiJzmOLr-5">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.406;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-10" target="VfAITodiY_IkIiJzmOLr-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-10" target="VfAITodiY_IkIiJzmOLr-25">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-10" target="VfAITodiY_IkIiJzmOLr-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-10" value="数据开发一体化化工作台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
@@ -142,19 +142,19 @@
         <mxCell id="VfAITodiY_IkIiJzmOLr-11" value="BBI可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="40" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-11" target="VfAITodiY_IkIiJzmOLr-9">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-11" target="VfAITodiY_IkIiJzmOLr-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-20" value="data api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="880" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-22" value="定义原子指标" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-21" target="VfAITodiY_IkIiJzmOLr-10">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-22" value="定义原子指标" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-21" target="VfAITodiY_IkIiJzmOLr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-21" value="BA" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-27" y="-100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-24" value="data api对接" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-23" target="VfAITodiY_IkIiJzmOLr-11">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-24" value="data api对接" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-23" target="VfAITodiY_IkIiJzmOLr-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-23" value="前端工程师" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
@@ -169,7 +169,7 @@
         <mxCell id="VfAITodiY_IkIiJzmOLr-27" value="工作流审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-175" y="311" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VfAITodiY_IkIiJzmOLr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-28" target="VfAITodiY_IkIiJzmOLr-10">
+        <mxCell id="VfAITodiY_IkIiJzmOLr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="VfAITodiY_IkIiJzmOLr-28" target="VfAITodiY_IkIiJzmOLr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VfAITodiY_IkIiJzmOLr-31" value="定义衍生指标/复合指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VfAITodiY_IkIiJzmOLr-29">
