@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T02:27:57.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="StNyMVvjZycuuu-6Frg_" version="24.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-29T02:28:48.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dkOjNkmI3vbQN9wCe-tS" version="24.4.3" type="github" pages="6">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,9 +206,16 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-vtlbkZHjJ8eP5Rtmcno" name="system-architecture" />
+  <diagram id="-vtlbkZHjJ8eP5Rtmcno" name="system-architecture">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="XdCZrkHnCgzcRtgImtsu" name="第 5 页">
-    <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
