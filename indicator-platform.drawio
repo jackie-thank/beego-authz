@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T03:23:15.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Y9FBKCsEOFTSKSbDi-KB" version="24.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-07T06:08:14.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="5wV0IbqxoQEk064Oqo6A" version="24.5.1" type="github" pages="6">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xIjQ5mB6HOQ1C_MoV0Lk" name="Authority">
-    <mxGraphModel dx="683" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,25 +449,25 @@
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-9" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.87;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-1" target="pjxrT8wDDHCDnNbpd6Iu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-10" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-10" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority1 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-11" value="Data Authority" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-11" value="Data Authority1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="228" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-14" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-14" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority2 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="291" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-15" value="Data Authority" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-15" value="Data Authority2" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="359" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-18" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-18" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority3 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-19" value="Data Authority" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-19" value="Data Authority3" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="360" y="498" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
