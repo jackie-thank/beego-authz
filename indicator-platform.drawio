@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T06:08:14.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="5wV0IbqxoQEk064Oqo6A" version="24.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-07T06:17:30.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="5gAYU6JYPaPbpoY7FZEK" version="24.5.1" type="github" pages="6">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,36 +408,36 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-1" value="User2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="47.5" height="50" as="geometry" />
+          <mxGeometry y="420" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-11">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-2" value="Role1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
-          <mxGeometry x="230" y="182" width="50" height="48" as="geometry" />
+          <mxGeometry x="190" y="112" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-3" target="pjxrT8wDDHCDnNbpd6Iu-14">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-3" target="pjxrT8wDDHCDnNbpd6Iu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-3" target="pjxrT8wDDHCDnNbpd6Iu-15">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-3" target="pjxrT8wDDHCDnNbpd6Iu-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-3" value="Role2" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
-          <mxGeometry x="230" y="321" width="50" height="48" as="geometry" />
+          <mxGeometry x="180" y="321" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-4" target="pjxrT8wDDHCDnNbpd6Iu-18">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-4" target="pjxrT8wDDHCDnNbpd6Iu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-4" target="pjxrT8wDDHCDnNbpd6Iu-19">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-4" target="pjxrT8wDDHCDnNbpd6Iu-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-4" value="Role3" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
-          <mxGeometry x="230" y="460" width="50" height="48" as="geometry" />
+          <mxGeometry x="180" y="530" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-5" value="User1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="50" y="241" width="47.5" height="50" as="geometry" />
+          <mxGeometry y="220" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-6" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.87;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-5" target="pjxrT8wDDHCDnNbpd6Iu-2">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-6" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.87;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-5" target="pjxrT8wDDHCDnNbpd6Iu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-7" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.87;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-5" target="pjxrT8wDDHCDnNbpd6Iu-3">
@@ -450,25 +450,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-10" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority1 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="180" height="40" as="geometry" />
+          <mxGeometry x="440" y="100" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-11" value="Data Authority1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="228" width="180" height="40" as="geometry" />
+          <mxGeometry x="440" y="168" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-10">
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-14" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority2 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="291" width="180" height="40" as="geometry" />
+          <mxGeometry x="430" y="301" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-15" value="Data Authority2" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="359" width="180" height="40" as="geometry" />
+          <mxGeometry x="430" y="369" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-18" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority3 &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="180" height="40" as="geometry" />
+          <mxGeometry x="430" y="510" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pjxrT8wDDHCDnNbpd6Iu-19" value="Data Authority3" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="360" y="498" width="180" height="40" as="geometry" />
+          <mxGeometry x="430" y="578" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="1" source="pjxrT8wDDHCDnNbpd6Iu-2" target="pjxrT8wDDHCDnNbpd6Iu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="341" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="106" width="233" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="381" width="233" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-27" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority1&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;amp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority2&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="853.5" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-29" value="User1&#39;s Authority" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-30" value="&lt;div&gt;Data Authority1&lt;/div&gt;&lt;div&gt;Data Authority2&#39;s max&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="850" y="261" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-31" value="User2&#39;s Authority" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="850" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-32" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority2&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;amp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Function Authority3&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="857" y="444" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxrT8wDDHCDnNbpd6Iu-33" value="&lt;div&gt;Data Authority2&lt;/div&gt;&lt;div&gt;Data Authority3&#39;s max&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="853.5" y="525" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
