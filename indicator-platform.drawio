@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:43:51.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VDpiXpF_rOcNTSOnazj1" version="24.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:45:17.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="RrimmhLlOpdN2kBKP5-d" version="24.5.1" type="github" pages="8">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oiwI7-VlziEtMSEo2BGM" name="Enterprise-Authority">
-    <mxGraphModel dx="1544" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="2112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -614,7 +614,7 @@
         <mxCell id="n66_DLD1Eou5Hbxmy5Xh-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="166" y="-240" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FDjBJHyh_9KUVOHpfKSr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FDjBJHyh_9KUVOHpfKSr-4" target="FDjBJHyh_9KUVOHpfKSr-3">
+        <mxCell id="FDjBJHyh_9KUVOHpfKSr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="FDjBJHyh_9KUVOHpfKSr-4" target="FDjBJHyh_9KUVOHpfKSr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDjBJHyh_9KUVOHpfKSr-4" value="用户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontStyle=1" vertex="1" parent="1">
