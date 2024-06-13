@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T03:01:06.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="gTe-oi65X64UxwZHnKLi" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-13T03:03:28.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="bmwqD5q8_pvBE4MwsuKW" version="24.5.2" type="github" pages="5">
   <diagram name="business-system-fetch-data" id="2zwWI6rYxvFrpTjRpGLl">
     <mxGraphModel dx="4841" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1011,6 +1011,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EFNpCM7SI3ubK4qVNMkI-28" value="Compare Rules" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EFNpCM7SI3ubK4qVNMkI-29" value="Task Engine" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="544" y="150" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
