@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:05:52.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="e7Qntz3f4EzaMn6Z6Mi_" version="24.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-17T07:15:21.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="DD9RNiZ4TbKJi51HOkl3" version="24.6.4" type="github" pages="9">
   <diagram name="AloudData Architecture" id="Y1wMzlyQhokLqSUriz7b">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7-wIBu04iv_1GWmvpljG" name="unified-framework">
-    <mxGraphModel dx="2876" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -803,8 +803,22 @@
         <mxCell id="OIP5JvJ6EaMEHUNn9Rvo-54" value="Open Api" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-448" y="800" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d0AOIFHMs_9kIsh9PM2e-2" value="&lt;div&gt;api call&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.32;exitY=1.012;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="OIP5JvJ6EaMEHUNn9Rvo-55" target="OIP5JvJ6EaMEHUNn9Rvo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AOIFHMs_9kIsh9PM2e-4" value="api call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.89;exitY=1.033;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="OIP5JvJ6EaMEHUNn9Rvo-55" target="OIP5JvJ6EaMEHUNn9Rvo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OIP5JvJ6EaMEHUNn9Rvo-55" value="Open Api" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-300" y="270" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AOIFHMs_9kIsh9PM2e-1" value="&lt;div&gt;spi register&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;fontStyle=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OIP5JvJ6EaMEHUNn9Rvo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-157" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0AOIFHMs_9kIsh9PM2e-3" value="spi register" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.779;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OIP5JvJ6EaMEHUNn9Rvo-1" target="OIP5JvJ6EaMEHUNn9Rvo-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -814,6 +828,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eGrI_O-HpOBGerv1veTv-8" value="1.登录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-1" target="eGrI_O-HpOBGerv1veTv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Application&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Web&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Frontend&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="75" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-2" target="eGrI_O-HpOBGerv1veTv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-2" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Application&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Web&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Backend&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="515" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-3" target="eGrI_O-HpOBGerv1veTv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="380" />
+              <mxPoint x="360" y="360" />
+              <mxPoint x="390" y="360" />
+              <mxPoint x="390" y="200" />
+              <mxPoint x="520" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-3" value="Self Build Application" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="350" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-4" target="eGrI_O-HpOBGerv1veTv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="420" y="340" />
+              <mxPoint x="360" y="340" />
+              <mxPoint x="360" y="200" />
+              <mxPoint x="240" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-4" value="IDaaS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-9" value="2." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-5" target="eGrI_O-HpOBGerv1veTv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-5" value="&lt;div&gt;Self Build Open Api Ingress Gateway&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="220" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eGrI_O-HpOBGerv1veTv-7" target="eGrI_O-HpOBGerv1veTv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGrI_O-HpOBGerv1veTv-7" value="&lt;div&gt;Alibaba Open Api Ingress Gateway&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="320" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
