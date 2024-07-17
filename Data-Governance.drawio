@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T07:04:36.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="TEYwsWoQ2ig2qzvAtWB1" version="24.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-17T07:11:23.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="alp79ThZddGxvcYJiAE9" version="24.5.5" type="github" pages="8">
   <diagram name="business-system-fetch-data" id="2zwWI6rYxvFrpTjRpGLl">
     <mxGraphModel dx="4841" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1283,6 +1283,14 @@
         <mxCell id="0LLlg5M2WOE473_zCYId-24" value="&lt;div&gt;Decision：&lt;/div&gt;&lt;div&gt;1. SaaS统一网关，建议使用如下方案&lt;/div&gt;&lt;div&gt;2. 针对项目的独立部署方案且仅for 数据场景，为了精简可以考虑把两部分限流策略合并在一起实现&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;align=left;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="740" y="-30" width="220" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gAN49sgy8JiU1eGP-9_s" name="第 8 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
