@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-26T10:29:13.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="L2FHJAk0Z0NlrhWPZyLf" version="24.7.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-26T10:33:29.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="Att3RdLR_b8Gam-z7vel" version="24.7.3" type="github" pages="8">
   <diagram name="business-system-fetch-data" id="2zwWI6rYxvFrpTjRpGLl">
     <mxGraphModel dx="4841" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1449,7 +1449,7 @@
         <mxCell id="AJ633D67GDVTX55pxyOY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AJ633D67GDVTX55pxyOY-48" target="AJ633D67GDVTX55pxyOY-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AJ633D67GDVTX55pxyOY-48" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AJ633D67GDVTX55pxyOY-48" value="发布UAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AJ633D67GDVTX55pxyOY-50" value="产品验收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
