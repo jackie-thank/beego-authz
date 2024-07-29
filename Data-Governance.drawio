@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T06:17:05.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="37Paq6vvS0WIKhWB1luU" version="24.7.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-29T06:17:45.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="iIbnCyv4zfOeIaPWZKRQ" version="24.7.3" type="github" pages="8">
   <diagram name="business-system-fetch-data" id="2zwWI6rYxvFrpTjRpGLl">
     <mxGraphModel dx="4841" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1456,7 +1456,12 @@
           <mxGeometry x="2040" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AJ633D67GDVTX55pxyOY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AJ633D67GDVTX55pxyOY-52" target="AJ633D67GDVTX55pxyOY-36">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="220" />
+              <mxPoint x="1381" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AJ633D67GDVTX55pxyOY-52" value="bug修复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="258" width="120" height="60" as="geometry" />
