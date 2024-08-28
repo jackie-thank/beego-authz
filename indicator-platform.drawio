@@ -990,10 +990,10 @@
         <mxCell id="sirLkNu18FuR0RJqJQQb-4" value="时间周期" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;glass=0;shadow=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="760" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="sirLkNu18FuR0RJqJQQb-6" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;修饰词-公共层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;glass=0;shadow=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="sirLkNu18FuR0RJqJQQb-6" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;N个修饰词-公共层(N&amp;gt;=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;glass=0;shadow=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="179" width="360" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="sirLkNu18FuR0RJqJQQb-7" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;修饰词-应用层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;glass=0;shadow=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="sirLkNu18FuR0RJqJQQb-7" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;N个修饰词-应用层(N&amp;gt;=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;glass=0;shadow=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="176" width="360" height="38" as="geometry" />
         </mxCell>
         <mxCell id="sirLkNu18FuR0RJqJQQb-9" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;复合指标-公共层&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
