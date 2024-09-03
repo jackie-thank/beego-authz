@@ -1542,13 +1542,13 @@
         <mxCell id="C8gzA844e0YCXETT0VSE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="-150" width="190" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="171" width="880" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="580" width="880" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="-148" width="880" height="100" as="geometry" />
         </mxCell>
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-5" value="&lt;div&gt;ODS&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;OSS（Paimon）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -1575,10 +1575,10 @@
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-13" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;数据可视化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=20;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="-150" y="-148" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="-28" width="880" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="460" width="880" height="100" as="geometry" />
         </mxCell>
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-19" value="&lt;div&gt;数据服务API-DataWorks-数据服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipH=0;" vertex="1" parent="1">
