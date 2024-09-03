@@ -1535,7 +1535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b9Iy0LNbioCyh40QNEly" name="第 13 页">
-    <mxGraphModel dx="2150" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1655,6 +1655,24 @@
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-5" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-6" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="610" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-7" value="前端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-50" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-8" value="后端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="140" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-9" value="数据分析师" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="490" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-11" value="数据架构" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="270" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C8gzA844e0YCXETT0VSE-12" value="数据运维" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="585" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
