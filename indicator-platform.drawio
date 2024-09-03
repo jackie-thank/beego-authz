@@ -1235,7 +1235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J5IBff_QUFTl7snJWm-z" name="logical-architecture-apple">
-    <mxGraphModel dx="1783" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2739" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1357,7 +1357,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5kx3jS-jWDwU5_occHx9-33" value="&lt;div&gt;数据服务&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Data Api&amp;amp;Indicator Api)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5kx3jS-jWDwU5_occHx9-33" value="&lt;div&gt;数据服务&lt;br&gt;&lt;/div&gt;&lt;div&gt;(数据Api&amp;amp;指标Api)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="217" y="172" width="240" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5kx3jS-jWDwU5_occHx9-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
