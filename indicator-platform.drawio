@@ -1584,9 +1584,6 @@
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-19" value="&lt;div&gt;数据服务API-DataWorks-数据服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="66" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v1Sc5Jf0mTE_ScnupmPC-16" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;发&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;体&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;系&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="900" y="90" width="50" height="590" as="geometry" />
-        </mxCell>
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-20" value="智能决策" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="66" width="180" height="60" as="geometry" />
         </mxCell>
@@ -1609,7 +1606,7 @@
           <mxGeometry x="690" y="66" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eaa-IUebixeHuxXSOFAp-7" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;开&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;发&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;治&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;理&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;体&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;系&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-150" width="50" height="830" as="geometry" />
+          <mxGeometry x="896" y="-150" width="50" height="830" as="geometry" />
         </mxCell>
         <mxCell id="eaa-IUebixeHuxXSOFAp-8" value="&lt;div&gt;Flink CDC&lt;/div&gt;&lt;div&gt;（流式）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="230" height="60" as="geometry" />
@@ -1630,10 +1627,10 @@
           <mxGeometry x="470" y="183" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据治理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="275" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="230" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-2" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="66" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="44" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-3" value="Micro Framework" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="-128" width="150" height="60" as="geometry" />
@@ -1642,22 +1639,22 @@
           <mxGeometry x="325" y="480" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-5" value="端到端数据监控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="555" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="510" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据开发&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="376" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-2" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据分析&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="480" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="410" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-4" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据建模&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="171" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="135" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-5" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-30" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="-40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-6" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="620" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="600" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-7" value="前端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="1200" y="-140" width="47.5" height="50" as="geometry" />
