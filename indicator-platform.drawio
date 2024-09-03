@@ -1627,10 +1627,10 @@
           <mxGeometry x="470" y="183" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据治理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="236" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="196" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-2" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="54" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="34" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-3" value="微前端" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="-128" width="150" height="60" as="geometry" />
@@ -1639,19 +1639,19 @@
           <mxGeometry x="325" y="480" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-5" value="端到端数据监控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="509" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="519" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据开发&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="327" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="357" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-2" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据分析&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="418" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="438" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-4" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据建模&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="145" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="115" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-5" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-37" width="150" height="60" as="geometry" />
+          <mxGeometry x="980" y="-47" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-6" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="600" width="150" height="60" as="geometry" />
@@ -1671,7 +1671,7 @@
         <mxCell id="C8gzA844e0YCXETT0VSE-12" value="数据运维" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="585" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-13" value="&lt;div&gt;Hologres-Serverless&lt;/div&gt;&lt;div&gt;（计算）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-13" value="&lt;div&gt;Hologres-Serverless&lt;/div&gt;&lt;div&gt;（弹性计算）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="275" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-14" value="数据开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
@@ -1694,6 +1694,9 @@
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.73;dx=17.67;flipH=1;notch=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="620" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ndAKgI4K8jz7YPa7q6_M-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-智能助手(Copilot)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="276" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
