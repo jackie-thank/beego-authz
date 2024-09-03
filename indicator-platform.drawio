@@ -1656,25 +1656,25 @@
         <mxCell id="C8gzA844e0YCXETT0VSE-6" value="数据安全" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-7" value="前端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-7" value="前端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="-128" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-8" value="后端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-8" value="后端开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="15" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-9" value="数据分析师" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-9" value="数据分析师" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="442" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-11" value="数据架构" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-11" value="数据架构" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="300" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-12" value="数据运维" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-12" value="数据运维" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="585" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-13" value="&lt;div&gt;Hologres-Serverless&lt;/div&gt;&lt;div&gt;（计算）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="275" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C8gzA844e0YCXETT0VSE-14" value="数据开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="C8gzA844e0YCXETT0VSE-14" value="数据开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1210" y="157" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.73;dx=17.67;flipH=1;notch=0;" vertex="1" parent="1">
