@@ -1535,7 +1535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b9Iy0LNbioCyh40QNEly" name="第 13 页">
-    <mxGraphModel dx="2411" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1612,7 +1612,7 @@
           <mxGeometry x="630" y="480" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eaa-IUebixeHuxXSOFAp-9" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="595" width="100" height="70" as="geometry" />
+          <mxGeometry x="680" y="595" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iyrMxYuAsLwuHqZ-SMc3-1" value="&lt;div&gt;DataWorks-数据集成&lt;/div&gt;&lt;div&gt;(离线批量)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="240" height="60" as="geometry" />
@@ -1635,7 +1635,7 @@
         <mxCell id="6sim7C6u0PiF0gA1E43L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="R7gBbb8Z98KQ3REJuA8b-4" target="v1Sc5Jf0mTE_ScnupmPC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R7gBbb8Z98KQ3REJuA8b-4" value="Kafka+Flink" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="R7gBbb8Z98KQ3REJuA8b-4" value="&lt;div&gt;Kafka+Flink&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="480" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-5" value="端到端数据监控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1707,11 +1707,20 @@
         <mxCell id="ndAKgI4K8jz7YPa7q6_M-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-智能助手(Copilot)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="980" y="236" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6sim7C6u0PiF0gA1E43L-1" value="专线、VPN等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="6sim7C6u0PiF0gA1E43L-2" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="-11" width="860" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="79IRj5ejQV9oma5WrU55-2" value="消费binlog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=14;fontStyle=1" edge="1" parent="1" source="79IRj5ejQV9oma5WrU55-1" target="eaa-IUebixeHuxXSOFAp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79IRj5ejQV9oma5WrU55-3" value="推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="79IRj5ejQV9oma5WrU55-1" target="R7gBbb8Z98KQ3REJuA8b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79IRj5ejQV9oma5WrU55-4" value="读取数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="79IRj5ejQV9oma5WrU55-1" target="v1Sc5Jf0mTE_ScnupmPC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79IRj5ejQV9oma5WrU55-1" value="DataX" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="600" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
