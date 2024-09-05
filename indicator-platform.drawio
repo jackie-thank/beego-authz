@@ -1821,7 +1821,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 13 页 的副本" id="xDao5BLjuIyzozbxu3di">
-    <mxGraphModel dx="2022" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-0" />
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-1" parent="ZoOmM_4XjZwhoW2XWcbh-0" />
@@ -1837,8 +1837,8 @@
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
           <mxGeometry y="-148" width="880" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-6" value="&lt;div&gt;ODS(OSS-Paimon)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
-          <mxGeometry x="10" y="365" width="430" height="50" as="geometry" />
+        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-6" value="&lt;div&gt;ODS(OSS-Paimon)&lt;/div&gt;&lt;div&gt;(数据湖)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
+          <mxGeometry x="10" y="365" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-7" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;运维调度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
           <mxGeometry x="10" y="181" width="90" height="160" as="geometry" />
@@ -1909,21 +1909,11 @@
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-29" value="微前端" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
           <mxGeometry x="980" y="-128" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-30" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.701;entryY=1.002;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-31" target="ZoOmM_4XjZwhoW2XWcbh-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="435" />
-              <mxPoint x="311" y="435" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-30" value="write" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.701;entryY=1.002;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;fontSize=15;fontStyle=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-31" target="ZoOmM_4XjZwhoW2XWcbh-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IHAkbojs7pKpUx43KDqk-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;write&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1;entryX=0.516;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-31" target="IHAkbojs7pKpUx43KDqk-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615" y="440" />
-              <mxPoint x="681" y="440" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-31" value="&lt;div&gt;Flink&lt;/div&gt;&lt;div&gt;(流式消费)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
           <mxGeometry x="442" y="451" width="230" height="45" as="geometry" />
@@ -2042,7 +2032,7 @@
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-65" value="专线投递" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;fontSize=15;fontStyle=1" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-67" target="ZoOmM_4XjZwhoW2XWcbh-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-66" value="现有链路" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-67" target="ZoOmM_4XjZwhoW2XWcbh-82">
+        <mxCell id="ZoOmM_4XjZwhoW2XWcbh-66" value="现有链路-同步数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="ZoOmM_4XjZwhoW2XWcbh-67" target="ZoOmM_4XjZwhoW2XWcbh-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZoOmM_4XjZwhoW2XWcbh-67" value="Flink" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
@@ -2121,8 +2111,11 @@
             <mxPoint x="681" y="686.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IHAkbojs7pKpUx43KDqk-0" value="&lt;div&gt;ODS(Hologres)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
-          <mxGeometry x="480" y="365" width="390" height="50" as="geometry" />
+        <mxCell id="IHAkbojs7pKpUx43KDqk-3" value="&lt;div&gt;数据&lt;/div&gt;&lt;div&gt;入湖&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="ZoOmM_4XjZwhoW2XWcbh-1" source="IHAkbojs7pKpUx43KDqk-0" target="ZoOmM_4XjZwhoW2XWcbh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHAkbojs7pKpUx43KDqk-0" value="&lt;div&gt;ODS(Hologres)&lt;/div&gt;&lt;div&gt;(实时链路)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="ZoOmM_4XjZwhoW2XWcbh-1">
+          <mxGeometry x="500" y="365" width="370" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
