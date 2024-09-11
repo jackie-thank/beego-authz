@@ -2187,7 +2187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aeA3LdAJa0ffJmDVfM0Z" name="BBI&amp;CRM融合架构">
-    <mxGraphModel dx="3033" dy="2381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2228,7 +2228,7 @@
           <mxGeometry y="-87" width="1080" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-11" value="ODS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="248" y="396" width="620" height="35" as="geometry" />
+          <mxGeometry x="258" y="396" width="600" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BREnb2U-1B-VcFlp2WGz-12" target="BREnb2U-1B-VcFlp2WGz-3">
           <mxGeometry relative="1" as="geometry" />
@@ -2255,10 +2255,10 @@
           <mxGeometry x="-180" y="-23" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-18" value="DWD" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="248" y="333.5" width="620" height="35" as="geometry" />
+          <mxGeometry x="258" y="333.5" width="600" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-20" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="248" y="269" width="620" height="35" as="geometry" />
+          <mxGeometry x="258" y="269" width="600" height="35" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="476" width="1080" height="230" as="geometry" />
@@ -2293,11 +2293,11 @@
         <mxCell id="D04g-YOMnMJdxacHnsvT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BREnb2U-1B-VcFlp2WGz-31" target="BREnb2U-1B-VcFlp2WGz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BREnb2U-1B-VcFlp2WGz-31" value="&lt;div&gt;MaxCompute/&lt;/div&gt;&lt;div&gt;Flink&lt;/div&gt;&lt;div&gt;-计算&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="918" y="276" width="146" height="150" as="geometry" />
+        <mxCell id="BREnb2U-1B-VcFlp2WGz-31" value="&lt;div&gt;MaxCompute(离线)&lt;/div&gt;&lt;div&gt;/Flink(实时)&lt;/div&gt;&lt;div&gt;-弹性计算&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="895" y="276" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-32" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-任务调度&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="72" y="276" width="146" height="150" as="geometry" />
+          <mxGeometry x="55" y="276" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-37" value="数据治理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="194" width="120" height="60" as="geometry" />
@@ -2326,7 +2326,7 @@
         <mxCell id="BREnb2U-1B-VcFlp2WGz-46" value="读取" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontStyle=1;fontSize=15;" edge="1" parent="1" source="BREnb2U-1B-VcFlp2WGz-43" target="BREnb2U-1B-VcFlp2WGz-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BREnb2U-1B-VcFlp2WGz-51" value="调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1;fontSize=15;" edge="1" parent="1" source="BREnb2U-1B-VcFlp2WGz-48" target="BREnb2U-1B-VcFlp2WGz-45">
+        <mxCell id="BREnb2U-1B-VcFlp2WGz-51" value="调用api" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1;fontSize=15;" edge="1" parent="1" source="BREnb2U-1B-VcFlp2WGz-48" target="BREnb2U-1B-VcFlp2WGz-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BREnb2U-1B-VcFlp2WGz-48" value="三方系统" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
