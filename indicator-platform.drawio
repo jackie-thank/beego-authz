@@ -2124,7 +2124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I-Dwe2gn0KMx2uGEEmYN" name="ChatBI">
-    <mxGraphModel dx="2022" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2143,7 +2143,7 @@
         <mxCell id="NaD24-pF9SEyAeDYOkBJ-4" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="240" width="820" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NaD24-pF9SEyAeDYOkBJ-6" value="&lt;div&gt;大模型（GPT/miniMax）+ Agent&lt;br&gt;&lt;/div&gt;&lt;div&gt;语义解析-&amp;gt;语义分拆(Agent)-&amp;gt;Text2SQL-&amp;gt;SQLs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="NaD24-pF9SEyAeDYOkBJ-6" value="&lt;div&gt;大模型（GPT/miniMax）+ Agent&lt;br&gt;&lt;/div&gt;&lt;div&gt;语义解析（大模型）-&amp;gt;语义分拆(Agent)-&amp;gt;Text2SQL（大模型）=&amp;gt;SQLs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="426" width="820" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NaD24-pF9SEyAeDYOkBJ-7" value="语音上传" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="NaD24-pF9SEyAeDYOkBJ-2">
