@@ -1701,7 +1701,7 @@
         <mxCell id="6sim7C6u0PiF0gA1E43L-2" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10" y="-12" width="860" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="79IRj5ejQV9oma5WrU55-2" value="consume oplog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=14;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hwD16BoNkeiLJDnRsmOC-10" target="hTakPv99LZUttAAH1rCr-2" edge="1">
+        <mxCell id="79IRj5ejQV9oma5WrU55-2" value="consume oplog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=15;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hwD16BoNkeiLJDnRsmOC-10" target="hTakPv99LZUttAAH1rCr-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="527" y="777.5" as="sourcePoint" />
           </mxGeometry>
@@ -1713,10 +1713,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hTakPv99LZUttAAH1rCr-1" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="359" y="781" width="100" height="50" as="geometry" />
+          <mxGeometry x="359" y="787" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hTakPv99LZUttAAH1rCr-2" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="747.5" y="781" width="100" height="50" as="geometry" />
+          <mxGeometry x="747.5" y="787" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hTakPv99LZUttAAH1rCr-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="586.75" y="667.75" width="30" height="125.5" as="geometry" />
