@@ -1840,7 +1840,7 @@
         <mxCell id="jiaXyC1ZR-9xPx55EryH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jiaXyC1ZR-9xPx55EryH-1">
           <mxGeometry y="-148" width="880" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jiaXyC1ZR-9xPx55EryH-6" value="&lt;div&gt;ODS(OSS-Paimon+ORC)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="jiaXyC1ZR-9xPx55EryH-1">
+        <mxCell id="jiaXyC1ZR-9xPx55EryH-6" value="&lt;div&gt;ODS&lt;/div&gt;&lt;div&gt;(OSS-Paimon+OSS-ORC)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="jiaXyC1ZR-9xPx55EryH-1">
           <mxGeometry x="166" y="355" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jiaXyC1ZR-9xPx55EryH-7" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;开发调度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" vertex="1" parent="jiaXyC1ZR-9xPx55EryH-1">
