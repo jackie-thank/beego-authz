@@ -1535,7 +1535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b9Iy0LNbioCyh40QNEly" name="Apple-future-architecture-batch">
-    <mxGraphModel dx="4014" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1605,9 +1605,6 @@
         <mxCell id="eaa-IUebixeHuxXSOFAp-7" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;数&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;开&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;发&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;治&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;理&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;体&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;系&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontStyle=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="896" y="-150" width="50" height="996" as="geometry" />
         </mxCell>
-        <mxCell id="iyrMxYuAsLwuHqZ-SMc3-1" value="&lt;div&gt;DataWorks-数据集成&lt;/div&gt;&lt;div&gt;(离线批量)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="98" y="555.75" width="240" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="ZD0ixhUgSNwwDLEmN1Uz-2" value="&lt;div&gt;ADS(Hologres)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="119" y="176" width="220" height="50" as="geometry" />
         </mxCell>
@@ -1626,8 +1623,8 @@
         <mxCell id="6sim7C6u0PiF0gA1E43L-7" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.502;entryY=1.001;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;fontSize=15;fontStyle=1" parent="1" source="R7gBbb8Z98KQ3REJuA8b-4" target="v1Sc5Jf0mTE_ScnupmPC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R7gBbb8Z98KQ3REJuA8b-4" value="&lt;div&gt;Flink&lt;/div&gt;&lt;div&gt;(流式消费)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="448" width="230" height="45" as="geometry" />
+        <mxCell id="R7gBbb8Z98KQ3REJuA8b-4" value="&lt;div&gt;Flink&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="323" y="464" width="230" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-5" value="端到端数据监控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="980" y="642" width="150" height="60" as="geometry" />
@@ -1715,11 +1712,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IRj5ejQV9oma5WrU55-7" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" source="iyrMxYuAsLwuHqZ-SMc3-1" target="hwD16BoNkeiLJDnRsmOC-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="459" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hTakPv99LZUttAAH1rCr-1" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="359" y="781" width="100" height="50" as="geometry" />
         </mxCell>
@@ -1801,12 +1793,16 @@
         <mxCell id="hwD16BoNkeiLJDnRsmOC-6" value="Doris" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="168" y="641" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hwD16BoNkeiLJDnRsmOC-7" value="批量抽取" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" source="iyrMxYuAsLwuHqZ-SMc3-1" target="hwD16BoNkeiLJDnRsmOC-6" edge="1">
+        <mxCell id="hwD16BoNkeiLJDnRsmOC-7" value="批量读取" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="R7gBbb8Z98KQ3REJuA8b-4" target="hwD16BoNkeiLJDnRsmOC-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="218" y="601" as="sourcePoint" />
+            <mxPoint x="218" y="600.75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="540" />
+              <mxPoint x="218" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hwD16BoNkeiLJDnRsmOC-9" value="consume" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" source="R7gBbb8Z98KQ3REJuA8b-4" target="hwD16BoNkeiLJDnRsmOC-4" edge="1">
+        <mxCell id="hwD16BoNkeiLJDnRsmOC-9" value="流式消费" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=15;fontStyle=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="R7gBbb8Z98KQ3REJuA8b-4" target="hwD16BoNkeiLJDnRsmOC-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="522" as="sourcePoint" />
             <mxPoint x="460" y="549" as="targetPoint" />
