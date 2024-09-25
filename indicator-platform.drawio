@@ -1535,7 +1535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b9Iy0LNbioCyh40QNEly" name="Apple-future-architecture-batch">
-    <mxGraphModel dx="2336" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1572,10 +1572,7 @@
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-13" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;数据可视化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=20;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-150" y="-148" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hTakPv99LZUttAAH1rCr-10" value="query" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" source="v1Sc5Jf0mTE_ScnupmPC-14" target="ZD0ixhUgSNwwDLEmN1Uz-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hTakPv99LZUttAAH1rCr-11" value="query" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.709;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=15;fontStyle=1" parent="1" source="v1Sc5Jf0mTE_ScnupmPC-14" target="ZD0ixhUgSNwwDLEmN1Uz-3" edge="1">
+        <mxCell id="hTakPv99LZUttAAH1rCr-10" value="query" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.487;exitY=0.998;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;exitPerimeter=0;" parent="1" source="v1Sc5Jf0mTE_ScnupmPC-14" target="ZD0ixhUgSNwwDLEmN1Uz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v1Sc5Jf0mTE_ScnupmPC-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontStyle=1" parent="1" vertex="1">
@@ -1606,10 +1603,7 @@
           <mxGeometry x="896" y="-150" width="50" height="996" as="geometry" />
         </mxCell>
         <mxCell id="ZD0ixhUgSNwwDLEmN1Uz-2" value="&lt;div&gt;ADS(Hologres)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="176" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZD0ixhUgSNwwDLEmN1Uz-3" value="&lt;div&gt;ADS(OSS-Paimon)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="176" width="220" height="50" as="geometry" />
+          <mxGeometry x="154" y="182" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R7gBbb8Z98KQ3REJuA8b-1" value="&lt;div&gt;Dataworks&lt;/div&gt;&lt;div&gt;-数据治理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="980" y="202" width="150" height="60" as="geometry" />
@@ -1659,14 +1653,11 @@
         <mxCell id="6sim7C6u0PiF0gA1E43L-3" value="query" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.51;exitY=0.967;exitDx=0;exitDy=0;fontSize=15;fontStyle=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="C8gzA844e0YCXETT0VSE-13" target="v1Sc5Jf0mTE_ScnupmPC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6sim7C6u0PiF0gA1E43L-4" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" parent="1" source="C8gzA844e0YCXETT0VSE-13" target="ZD0ixhUgSNwwDLEmN1Uz-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6sim7C6u0PiF0gA1E43L-6" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" parent="1" source="C8gzA844e0YCXETT0VSE-13" target="ZD0ixhUgSNwwDLEmN1Uz-3" edge="1">
+        <mxCell id="6sim7C6u0PiF0gA1E43L-4" value="write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" parent="1" source="C8gzA844e0YCXETT0VSE-13" target="ZD0ixhUgSNwwDLEmN1Uz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-13" value="&lt;div&gt;Hologres(Serverless-Computing)&lt;/div&gt;&lt;div&gt;（弹性计算）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="267" width="550" height="50" as="geometry" />
+          <mxGeometry x="155" y="278" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C8gzA844e0YCXETT0VSE-14" value="数据开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1212" y="220" width="47.5" height="50" as="geometry" />
@@ -1818,7 +1809,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1FTw_bPoWVbVZBsSPCS4-1" value="&lt;div&gt;DLF&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;元数据管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="184" width="90" height="156" as="geometry" />
+          <mxGeometry x="10" y="184" width="110" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
