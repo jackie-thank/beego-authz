@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sBmf1wyZhFD_e2V0OpTe-5" value="B端Frontend Application" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="320" height="60" as="geometry" />
+          <mxGeometry x="1" y="30" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sBmf1wyZhFD_e2V0OpTe-8" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sBmf1wyZhFD_e2V0OpTe-6" target="sBmf1wyZhFD_e2V0OpTe-1">
           <mxGeometry relative="1" as="geometry" />
