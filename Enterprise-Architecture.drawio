@@ -91,10 +91,236 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cfT8GDJrwC31AmBL_dbl" name="batcher-order-routing">
-    <mxGraphModel dx="1434" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4412" dy="3054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-80" value="竞争分布式锁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fontSize=12;fontStyle=1" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-42" target="HuRlBlkzDmZAnvcq0Dvm-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="258" width="2917" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-1" target="HuRlBlkzDmZAnvcq0Dvm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-1" value="" style="ellipse;html=1;shape=endState;fillColor=#ffffff;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="383.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="465.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-3" target="HuRlBlkzDmZAnvcq0Dvm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;从RMQ Pull Msg&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(假设每批为100)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="375.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-5" target="HuRlBlkzDmZAnvcq0Dvm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-5" value="品牌逻辑" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="375.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-7" target="HuRlBlkzDmZAnvcq0Dvm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-13" value="获取分布式锁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;fontStyle=1" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-7" target="HuRlBlkzDmZAnvcq0Dvm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-7" value="&lt;div&gt;By Sku维度&lt;/div&gt;&lt;div&gt;统计预占库存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="375.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-9" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Sku1:30&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Sku2:50&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;...&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="288" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-12" target="HuRlBlkzDmZAnvcq0Dvm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-12" value="&lt;div&gt;获取分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="800" y="375.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-14" target="HuRlBlkzDmZAnvcq0Dvm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-14" value="&lt;div&gt;By Sku查询数据库的&lt;/div&gt;&lt;div&gt;可用库存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="375.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-19" value="足够" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-18" target="HuRlBlkzDmZAnvcq0Dvm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-15" target="HuRlBlkzDmZAnvcq0Dvm-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-15" value="开启事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1560" y="457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-21" value="不足够" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-18" target="HuRlBlkzDmZAnvcq0Dvm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-18" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;By Sku&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;判断库存数量&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;是否足够&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1320" y="365.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-20" target="HuRlBlkzDmZAnvcq0Dvm-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-20" value="不足够的sku重新计算" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1315" y="538" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-22" target="HuRlBlkzDmZAnvcq0Dvm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-22" value="&lt;div&gt;预占库存SQL&lt;/div&gt;&lt;div&gt;插入店铺流水SQL&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;路由失败SQL&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1820" y="457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-24" target="HuRlBlkzDmZAnvcq0Dvm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-24" value="提交事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2050" y="457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-26" value="&lt;div&gt;比如Sku1，数据库只有20件，实际要占30件，则去掉一笔订单，将该笔订单的路由定义为失败，如此循环，直到实际占用=20为止，当然这里面可能还有一些特殊逻辑要处理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1230" y="673" width="275" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-20" target="HuRlBlkzDmZAnvcq0Dvm-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="393" as="sourcePoint" />
+            <mxPoint x="1150" y="548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-35" target="HuRlBlkzDmZAnvcq0Dvm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-35" value="&lt;div&gt;释放分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-37" target="HuRlBlkzDmZAnvcq0Dvm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-37" value="批量更新在售库存" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2500" y="457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-43" value="线程2，每次处理一个批次" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-127" y="708" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-79" value="j竞争分布式锁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=12;fontStyle=1" edge="1" parent="1" source="HuRlBlkzDmZAnvcq0Dvm-44" target="HuRlBlkzDmZAnvcq0Dvm-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="-500" width="2917" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-46" target="HuRlBlkzDmZAnvcq0Dvm-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-46" value="" style="ellipse;html=1;shape=endState;fillColor=#ffffff;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-374.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-47" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="-292.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-49" target="HuRlBlkzDmZAnvcq0Dvm-51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-49" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;从RMQ Pull Msg&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(假设每批为100)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="-382.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-51" target="HuRlBlkzDmZAnvcq0Dvm-54" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-51" value="品牌逻辑" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="-382.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-54" target="HuRlBlkzDmZAnvcq0Dvm-55" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-53" value="获取分布式锁" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=12;fontStyle=1" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-54" target="HuRlBlkzDmZAnvcq0Dvm-57" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-54" value="&lt;div&gt;By Sku维度&lt;/div&gt;&lt;div&gt;统计预占库存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="-382.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-55" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Sku1:30&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Sku2:50&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;...&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="-470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-57" target="HuRlBlkzDmZAnvcq0Dvm-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-57" value="&lt;div&gt;获取分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-382.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-59" target="HuRlBlkzDmZAnvcq0Dvm-64" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-59" value="&lt;div&gt;By Sku查询数据库的&lt;/div&gt;&lt;div&gt;可用库存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-382.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-60" value="足够" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;fontStyle=1;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-64" target="HuRlBlkzDmZAnvcq0Dvm-62" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-62" target="HuRlBlkzDmZAnvcq0Dvm-68" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-62" value="开启事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-300.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-63" value="不足够" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontStyle=1;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-64" target="HuRlBlkzDmZAnvcq0Dvm-66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-64" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;By Sku&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;判断库存数量&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;是否足够&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-392.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-66" target="HuRlBlkzDmZAnvcq0Dvm-62" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="-190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-66" value="不足够的sku重新计算" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1315" y="-220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-68" target="HuRlBlkzDmZAnvcq0Dvm-70" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-68" value="&lt;div&gt;预占库存SQL&lt;/div&gt;&lt;div&gt;插入店铺流水SQL&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;路由失败SQL&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1820" y="-300.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-70" target="HuRlBlkzDmZAnvcq0Dvm-74" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-70" value="提交事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2050" y="-300.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-71" value="&lt;div&gt;比如Sku1，数据库只有20件，实际要占30件，则去掉一笔订单，将该笔订单的路由定义为失败，如此循环，直到实际占用=20为止，当然这里面可能还有一些特殊逻辑要处理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-85" width="275" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-66" target="HuRlBlkzDmZAnvcq0Dvm-71" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="-365" as="sourcePoint" />
+            <mxPoint x="1150" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-74" target="HuRlBlkzDmZAnvcq0Dvm-76" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-74" value="&lt;div&gt;释放分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="-300.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" source="HuRlBlkzDmZAnvcq0Dvm-76" target="HuRlBlkzDmZAnvcq0Dvm-47" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-76" value="批量更新在售库存" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2500" y="-300.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-77" value="线程1，每次处理一个批次" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-127" y="-50" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-78" value="&lt;div&gt;分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1251.5" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-81" value="&lt;div&gt;优劣分析：&lt;/div&gt;&lt;div&gt;1. 由原来的每笔订单路由，改为批量订单路由&lt;/div&gt;&lt;div&gt;2. 由原来的数据库锁行，改为分布式锁，&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="880" width="2310" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
