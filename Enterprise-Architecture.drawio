@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cfT8GDJrwC31AmBL_dbl" name="batcher-order-routing">
-    <mxGraphModel dx="4412" dy="3054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,8 +318,8 @@
         <mxCell id="HuRlBlkzDmZAnvcq0Dvm-78" value="&lt;div&gt;分布式锁&lt;/div&gt;&lt;div&gt;redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1251.5" y="110" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-81" value="&lt;div&gt;优劣分析：&lt;/div&gt;&lt;div&gt;1. 由原来的每笔订单路由，改为批量订单路由&lt;/div&gt;&lt;div&gt;2. 由原来的数据库锁行，改为分布式锁，&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="880" width="2310" height="130" as="geometry" />
+        <mxCell id="HuRlBlkzDmZAnvcq0Dvm-81" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;优劣分析：&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;1. 由原来的每笔订单路由，改为批量订单路由&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2. 由原来的数据库锁行，改为分布式锁&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;3. 每批：适合处理多少数据，需要做一个测试验证&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;4. 这是一个微批处理模型，能加速处理性能&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;5. 建议结合业务流程使用&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=left;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="830" width="334" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
