@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UEPR07t3ydd77mFEMGVx" name="uac-token">
-    <mxGraphModel dx="2261" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -737,6 +737,66 @@
         </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-41" value="登录、临时令牌、三方系统初始化" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="550" width="1160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-43" value="Api鉴权流程" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="550" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-46" target="_nQcqk-w2b2oa9V0drQ6-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-45" value="Call Api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_nQcqk-w2b2oa9V0drQ6-44">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-46" value="" style="ellipse;html=1;shape=endState;fillColor=#FFFFFF;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="623" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-48" target="_nQcqk-w2b2oa9V0drQ6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-48" value="&lt;div&gt;入参Token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Api Parmeters&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-50" target="_nQcqk-w2b2oa9V0drQ6-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-50" value="&lt;div&gt;根据Token&lt;/div&gt;&lt;div&gt;查询缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-56" target="_nQcqk-w2b2oa9V0drQ6-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-58" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_nQcqk-w2b2oa9V0drQ6-51">
+          <mxGeometry x="-0.0618" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-53" value="调用Api" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="870" y="608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-54" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="623" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-53" target="_nQcqk-w2b2oa9V0drQ6-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="713" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-57" value="没有，返回当前无API调用权限" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-56" target="_nQcqk-w2b2oa9V0drQ6-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="720" />
+              <mxPoint x="1115" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-56" value="&lt;div&gt;判断是否有&lt;/div&gt;&lt;div&gt;Api访问权限&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="608" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
