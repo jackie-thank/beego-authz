@@ -608,10 +608,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UEPR07t3ydd77mFEMGVx" name="uac-token">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="120" width="1160" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-1" target="_nQcqk-w2b2oa9V0drQ6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -626,30 +629,30 @@
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1100" y="190" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-4" target="_nQcqk-w2b2oa9V0drQ6-9">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-4" target="_nQcqk-w2b2oa9V0drQ6-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-4" value="&lt;div&gt;账号密码&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;手机验证码&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-4" value="&lt;div&gt;账号密码&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;手机验证码&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="175" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-9" target="_nQcqk-w2b2oa9V0drQ6-10">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-9" target="_nQcqk-w2b2oa9V0drQ6-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-9" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-9" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="175" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-10" target="_nQcqk-w2b2oa9V0drQ6-12">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-10" target="_nQcqk-w2b2oa9V0drQ6-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-10" value="&lt;div&gt;根据userId&lt;/div&gt;&lt;div&gt;获取ACL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-10" value="&lt;div&gt;根据userId&lt;/div&gt;&lt;div&gt;获取ACL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-12" target="_nQcqk-w2b2oa9V0drQ6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-12" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-12" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-15" target="_nQcqk-w2b2oa9V0drQ6-17">
@@ -663,25 +666,25 @@
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-15" value="" style="ellipse;html=1;shape=endState;fillColor=#FFFFFF;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="10" y="405" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-17" target="_nQcqk-w2b2oa9V0drQ6-20">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-17" target="_nQcqk-w2b2oa9V0drQ6-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-17" value="&lt;div&gt;入参AppKey&lt;/div&gt;&lt;div&gt;请求getToken或refreshToken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-17" value="&lt;div&gt;入参AppKey&lt;/div&gt;&lt;div&gt;请求getToken或refreshToken&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-20" target="_nQcqk-w2b2oa9V0drQ6-22">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-20" target="_nQcqk-w2b2oa9V0drQ6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-20" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-20" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-22" target="_nQcqk-w2b2oa9V0drQ6-24">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="_nQcqk-w2b2oa9V0drQ6-22" target="_nQcqk-w2b2oa9V0drQ6-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-22" value="&lt;div&gt;根据Appkey&lt;/div&gt;&lt;div&gt;获取ACL&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-22" value="&lt;div&gt;根据Appkey&lt;/div&gt;&lt;div&gt;获取ACL&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-24" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-24" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -706,31 +709,34 @@
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1100" y="295" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="_nQcqk-w2b2oa9V0drQ6-33" target="_nQcqk-w2b2oa9V0drQ6-35" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" source="_nQcqk-w2b2oa9V0drQ6-33" target="_nQcqk-w2b2oa9V0drQ6-35" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-33" value="&lt;div&gt;临时令牌&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-33" value="&lt;div&gt;临时令牌&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="_nQcqk-w2b2oa9V0drQ6-35" target="_nQcqk-w2b2oa9V0drQ6-37" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" source="_nQcqk-w2b2oa9V0drQ6-35" target="_nQcqk-w2b2oa9V0drQ6-37" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-35" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-35" value="&lt;div&gt;生成token&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Expire Time&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="_nQcqk-w2b2oa9V0drQ6-37" target="_nQcqk-w2b2oa9V0drQ6-39" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" source="_nQcqk-w2b2oa9V0drQ6-37" target="_nQcqk-w2b2oa9V0drQ6-39" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-37" value="&lt;div&gt;根据临时令牌&lt;/div&gt;&lt;div&gt;获取ACL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-37" value="&lt;div&gt;根据临时令牌&lt;/div&gt;&lt;div&gt;获取ACL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_nQcqk-w2b2oa9V0drQ6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="_nQcqk-w2b2oa9V0drQ6-39" target="_nQcqk-w2b2oa9V0drQ6-31" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nQcqk-w2b2oa9V0drQ6-39" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-39" value="&lt;div&gt;token:ACL&lt;/div&gt;&lt;div&gt;入缓存&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nQcqk-w2b2oa9V0drQ6-41" value="登录、临时令牌、三方系统初始化" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
