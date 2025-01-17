@@ -928,7 +928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YsJw1hdTm4zJRYSSJ9i2" name="营销系统">
-    <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -966,8 +966,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_YEfK6K0uM1gpstj_2u-7" value="&lt;div&gt;Campagin&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="285" width="220" height="60" as="geometry" />
+        <mxCell id="4_YEfK6K0uM1gpstj_2u-7" value="&lt;div&gt;Campagin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4_YEfK6K0uM1gpstj_2u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-10" target="4_YEfK6K0uM1gpstj_2u-16">
           <mxGeometry relative="1" as="geometry" />
@@ -998,7 +998,7 @@
         <mxCell id="4_YEfK6K0uM1gpstj_2u-13" value="Operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="713" y="-181" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPoIb2WnIgeCgHl2sHVf-8" value="&lt;div&gt;&lt;b&gt;for consumer:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;queryActivities&lt;/div&gt;&lt;div&gt;joinActivities&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.447;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-16" target="4_YEfK6K0uM1gpstj_2u-7">
+        <mxCell id="HPoIb2WnIgeCgHl2sHVf-8" value="&lt;div&gt;&lt;b&gt;for consumer:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;queryActivities&lt;/div&gt;&lt;div&gt;joinActivities&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.438;exitY=1.014;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-16" target="4_YEfK6K0uM1gpstj_2u-7">
           <mxGeometry x="-0.2597" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -1006,7 +1006,7 @@
         <mxCell id="HPoIb2WnIgeCgHl2sHVf-9" value="login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.095;exitY=0.957;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-16" target="4_YEfK6K0uM1gpstj_2u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HPoIb2WnIgeCgHl2sHVf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.555;exitY=0.995;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-16" target="4_YEfK6K0uM1gpstj_2u-7">
+        <mxCell id="HPoIb2WnIgeCgHl2sHVf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.562;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-16" target="4_YEfK6K0uM1gpstj_2u-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HPoIb2WnIgeCgHl2sHVf-11" value="&lt;div&gt;&lt;b&gt;for Operator:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;createActivity&lt;/div&gt;&lt;div&gt;updateActivity&lt;/div&gt;&lt;div&gt;queryActivity&lt;/div&gt;&lt;div&gt;deleteActivity&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HPoIb2WnIgeCgHl2sHVf-10">
@@ -1051,22 +1051,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4_YEfK6K0uM1gpstj_2u-34" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="767" y="210" width="60" height="80" as="geometry" />
+          <mxGeometry x="788" y="185" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4_YEfK6K0uM1gpstj_2u-37" value="&lt;div&gt;update activities cache&lt;br&gt;&lt;/div&gt;&lt;div&gt;query activities cache&lt;/div&gt;&lt;div&gt;update user activities&lt;/div&gt;&lt;div&gt;query user activities&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4_YEfK6K0uM1gpstj_2u-7" target="4_YEfK6K0uM1gpstj_2u-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4_YEfK6K0uM1gpstj_2u-39" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;user_acticvity&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;user_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;activitity_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;order_count&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;comment_count&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="870" y="287" width="90" height="83" as="geometry" />
+          <mxGeometry x="889" y="287" width="90" height="83" as="geometry" />
         </mxCell>
         <mxCell id="HPoIb2WnIgeCgHl2sHVf-3" value="N:M" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPoIb2WnIgeCgHl2sHVf-1" target="4_YEfK6K0uM1gpstj_2u-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HPoIb2WnIgeCgHl2sHVf-1" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;acticvity&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;activitity_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;join_rules&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;reward_rules&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="870" y="172" width="90" height="83" as="geometry" />
+          <mxGeometry x="889" y="172" width="90" height="83" as="geometry" />
         </mxCell>
         <mxCell id="4_YEfK6K0uM1gpstj_2u-36" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="767" y="345" width="60" height="63" as="geometry" />
+          <mxGeometry x="786" y="345" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HPoIb2WnIgeCgHl2sHVf-12" value="producer" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#800000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1086,6 +1086,15 @@
             <mxPoint x="42" y="-62" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HPoIb2WnIgeCgHl2sHVf-16" value="calculation engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPoIb2WnIgeCgHl2sHVf-17" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPoIb2WnIgeCgHl2sHVf-18" value="activity management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="315.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
