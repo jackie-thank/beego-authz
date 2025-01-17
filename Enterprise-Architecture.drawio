@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.3" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.3" pages="10">
   <diagram name="User Authority Control" id="Hu3Dzh2gflHLbhdXRFc0">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -928,7 +928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YsJw1hdTm4zJRYSSJ9i2" name="营销系统">
-    <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1069,6 +1069,14 @@
         <mxCell id="4_YEfK6K0uM1gpstj_2u-39" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;user_acticvity&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;user_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;activitity_id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;order_count&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;comment_count&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="515" width="120" height="95" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BhPBmfH6rGkkQhipNZc7" name="第 10 页">
+    <mxGraphModel dx="542" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
