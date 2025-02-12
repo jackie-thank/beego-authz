@@ -1397,19 +1397,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QyODePdoFxkbzGqtF4u--7" value="&lt;div&gt;活动数据&lt;/div&gt;&lt;div&gt;/活动规则&lt;/div&gt;&lt;div&gt;/用户可参与活动列表&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--6">
+        <mxCell id="QyODePdoFxkbzGqtF4u--7" value="&lt;div&gt;活动数据&lt;/div&gt;&lt;div&gt;/参与活动规则&lt;/div&gt;&lt;div&gt;/获奖规则&lt;/div&gt;&lt;div&gt;/用户可参与活动列表&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LPRXnBm4ftePlmEsE3k-9" value="&lt;div&gt;活动、规则&lt;/div&gt;&lt;div&gt;用户活动列表&lt;/div&gt;&lt;div&gt;用户参与详情&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QyODePdoFxkbzGqtF4u--10">
+        <mxCell id="3LPRXnBm4ftePlmEsE3k-9" value="&lt;div&gt;活动、规则&lt;/div&gt;&lt;div&gt;用户可参与活动列表&lt;/div&gt;&lt;div&gt;用户参与详情&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QyODePdoFxkbzGqtF4u--10">
           <mxGeometry x="-0.0787" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GMcFNPFtVt6viy7FqCry-1" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="760" height="170" as="geometry" />
+          <mxGeometry x="40" y="240" width="760" height="310" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-2" target="GMcFNPFtVt6viy7FqCry-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1447,30 +1447,14 @@
         <mxCell id="QyODePdoFxkbzGqtF4u--17" value="consume login/order/comment/shared event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="QyODePdoFxkbzGqtF4u--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyODePdoFxkbzGqtF4u--22" value="活动变更" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.313;exitY=1.004;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QyODePdoFxkbzGqtF4u--23" value="&lt;div&gt;查询参与活动规则/&lt;/div&gt;&lt;div&gt;奖励规则&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="GMcFNPFtVt6viy7FqCry-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LPRXnBm4ftePlmEsE3k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="GMcFNPFtVt6viy7FqCry-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LPRXnBm4ftePlmEsE3k-6" value="写入用户活动累计数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3LPRXnBm4ftePlmEsE3k-5">
-          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--3" value="活动计算引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="470" width="580" height="60" as="geometry" />
+          <mxGeometry x="131" y="451" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="251" width="60" height="63" as="geometry" />
+          <mxGeometry x="950" y="290" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="335.5" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="950" y="431.5" width="60" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--11" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="31" y="700" width="160" height="70" as="geometry" />
@@ -1508,10 +1492,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--26" value="预计算用户可参与活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="485" width="130" height="30" as="geometry" />
+          <mxGeometry x="161" y="466" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--27" value="奖励计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="485" width="130" height="30" as="geometry" />
+          <mxGeometry x="520" y="466" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3LPRXnBm4ftePlmEsE3k-1" value="查询可参与活动列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
@@ -1524,12 +1508,6 @@
         </mxCell>
         <mxCell id="3LPRXnBm4ftePlmEsE3k-4" value="App/Mini-program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="90" width="310" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3LPRXnBm4ftePlmEsE3k-7" value="&lt;div&gt;活动及规则&lt;/div&gt;&lt;div&gt;cache&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="648" y="485" width="63" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LPRXnBm4ftePlmEsE3k-8" value="&lt;div&gt;查询&lt;/div&gt;&lt;div&gt;可参与活动列表&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.19;exitY=0.999;exitDx=0;exitDy=0;entryX=0.094;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
