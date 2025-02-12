@@ -1393,15 +1393,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-FTRajQXTSvTm_lsh2ny" name="ar">
-    <mxGraphModel dx="1434" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QyODePdoFxkbzGqtF4u--7" value="&lt;div&gt;活动数据&lt;/div&gt;&lt;div&gt;/活动规则&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--6">
+        <mxCell id="QyODePdoFxkbzGqtF4u--7" value="&lt;div&gt;活动数据&lt;/div&gt;&lt;div&gt;/活动规则&lt;/div&gt;&lt;div&gt;/用户可参与活动列表&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LPRXnBm4ftePlmEsE3k-9" value="&lt;div&gt;活动、规则&lt;/div&gt;&lt;div&gt;用户活动列表&lt;/div&gt;&lt;div&gt;用户参与详情&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QyODePdoFxkbzGqtF4u--10">
+          <mxGeometry x="-0.0787" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GMcFNPFtVt6viy7FqCry-1" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="760" height="170" as="geometry" />
@@ -1442,12 +1447,12 @@
         <mxCell id="QyODePdoFxkbzGqtF4u--17" value="consume login/order/comment/shared event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="QyODePdoFxkbzGqtF4u--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyODePdoFxkbzGqtF4u--22" value="活动变更" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--3">
+        <mxCell id="QyODePdoFxkbzGqtF4u--22" value="活动变更" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.313;exitY=1.004;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QyODePdoFxkbzGqtF4u--23" value="查询规则" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="GMcFNPFtVt6viy7FqCry-1">
+        <mxCell id="QyODePdoFxkbzGqtF4u--23" value="&lt;div&gt;查询参与活动规则/&lt;/div&gt;&lt;div&gt;奖励规则&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="GMcFNPFtVt6viy7FqCry-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3LPRXnBm4ftePlmEsE3k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyODePdoFxkbzGqtF4u--3" target="GMcFNPFtVt6viy7FqCry-1">
@@ -1506,7 +1511,7 @@
           <mxGeometry x="161" y="485" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyODePdoFxkbzGqtF4u--27" value="奖励计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="485" width="130" height="30" as="geometry" />
+          <mxGeometry x="480" y="485" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3LPRXnBm4ftePlmEsE3k-1" value="查询可参与活动列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
@@ -1519,6 +1524,12 @@
         </mxCell>
         <mxCell id="3LPRXnBm4ftePlmEsE3k-4" value="App/Mini-program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="90" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LPRXnBm4ftePlmEsE3k-7" value="&lt;div&gt;活动及规则&lt;/div&gt;&lt;div&gt;cache&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="485" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3LPRXnBm4ftePlmEsE3k-8" value="&lt;div&gt;查询&lt;/div&gt;&lt;div&gt;可参与活动列表&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.19;exitY=0.999;exitDx=0;exitDy=0;entryX=0.094;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="GMcFNPFtVt6viy7FqCry-1" target="QyODePdoFxkbzGqtF4u--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
