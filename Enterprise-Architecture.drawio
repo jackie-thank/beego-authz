@@ -1524,7 +1524,7 @@
           <mxGeometry x="-324" y="1" width="810" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="280" width="980" height="420" as="geometry" />
+          <mxGeometry x="-410" y="280" width="990" height="420" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-13" target="pkA5R4gGJp7eskXWf1aQ-5">
           <mxGeometry relative="1" as="geometry">
@@ -1622,7 +1622,7 @@
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-61" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Algorithm Model Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-62.5" y="530" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9OwfGusxIJnibplpSez7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-4">
+        <mxCell id="9OwfGusxIJnibplpSez7-5" value="素材管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-86" y="415" as="sourcePoint" />
             <mxPoint x="-269" y="530" as="targetPoint" />
@@ -1634,13 +1634,13 @@
         <mxCell id="9OwfGusxIJnibplpSez7-6" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeWidth=2;rotation=-180;direction=south;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9OwfGusxIJnibplpSez7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-6">
+        <mxCell id="9OwfGusxIJnibplpSez7-7" value="模型预测" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OwfGusxIJnibplpSez7-8" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeWidth=2;rotation=-180;direction=south;" vertex="1" parent="1">
           <mxGeometry x="389" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9OwfGusxIJnibplpSez7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-8">
+        <mxCell id="9OwfGusxIJnibplpSez7-9" value="创建流程" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OwfGusxIJnibplpSez7-14" value="Apple Management" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management" vertex="1" parent="1">
@@ -1671,10 +1671,10 @@
         <mxCell id="9OwfGusxIJnibplpSez7-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sitewise_asset_model;" vertex="1" parent="1">
           <mxGeometry x="150" y="591" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2PXO-KUvN9DY2BX5p2N4-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+        <mxCell id="2PXO-KUvN9DY2BX5p2N4-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="447" y="270" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2PXO-KUvN9DY2BX5p2N4-2" value="MessageQueue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2PXO-KUvN9DY2BX5p2N4-2" value="Msg Queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="417" y="335" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PXO-KUvN9DY2BX5p2N4-4" value="&lt;div&gt;消费&lt;/div&gt;&lt;div&gt;流程变更事件&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="2PXO-KUvN9DY2BX5p2N4-1">
