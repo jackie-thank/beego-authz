@@ -1524,7 +1524,7 @@
           <mxGeometry x="-324" y="1" width="810" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="280" width="990" height="420" as="geometry" />
+          <mxGeometry x="-410" y="280" width="990" height="380" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;dashed=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-13" target="pkA5R4gGJp7eskXWf1aQ-5">
           <mxGeometry relative="1" as="geometry">
@@ -1584,7 +1584,7 @@
           <mxGeometry x="-61.5" y="300" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-48" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Fronted UI&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Module&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="253" y="530" width="100" height="45" as="geometry" />
+          <mxGeometry x="252" y="530" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pkA5R4gGJp7eskXWf1aQ-53" value="api call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-54">
           <mxGeometry x="0.0018" relative="1" as="geometry">
