@@ -1513,7 +1513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="atAg5xWIrS07DQ2YHGPx" name="mkt architecture">
-    <mxGraphModel dx="1990" dy="2235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1644,7 +1644,7 @@
         <mxCell id="9OwfGusxIJnibplpSez7-9" value="创建流程" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="pkA5R4gGJp7eskXWf1aQ-14" target="9OwfGusxIJnibplpSez7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9OwfGusxIJnibplpSez7-14" value="Apple Management" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management" vertex="1" parent="1">
+        <mxCell id="9OwfGusxIJnibplpSez7-14" value="Apple Management" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_management;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="800" y="585" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="9OwfGusxIJnibplpSez7-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
@@ -1684,13 +1684,13 @@
         <mxCell id="2PXO-KUvN9DY2BX5p2N4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PXO-KUvN9DY2BX5p2N4-5" target="pkA5R4gGJp7eskXWf1aQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2PXO-KUvN9DY2BX5p2N4-5" value="Reseller" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+        <mxCell id="2PXO-KUvN9DY2BX5p2N4-5" value="Reseller" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="258.5" y="-100" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2PXO-KUvN9DY2BX5p2N4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PXO-KUvN9DY2BX5p2N4-6" target="pkA5R4gGJp7eskXWf1aQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2PXO-KUvN9DY2BX5p2N4-6" value="Apple Operator" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+        <mxCell id="2PXO-KUvN9DY2BX5p2N4-6" value="Apple Operator" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-146.5" y="-100" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
@@ -1840,7 +1840,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bm9FGC6E-LN2qjMPbTVv" name="活动预测">
-    <mxGraphModel dx="3217" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
