@@ -1759,7 +1759,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="mkt architecture-2" id="2q1jE1wqANS2MmoCLuDe">
-    <mxGraphModel dx="2336" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="boNzhDrJQluZd5bqKfO3-0" />
         <mxCell id="boNzhDrJQluZd5bqKfO3-1" parent="boNzhDrJQluZd5bqKfO3-0" />
@@ -1915,16 +1915,16 @@
             <mxPoint x="5" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9hvZuoETQjmmQWDhAQo-1" value="活动分析/素材管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="boNzhDrJQluZd5bqKfO3-1" source="boNzhDrJQluZd5bqKfO3-40" target="boNzhDrJQluZd5bqKfO3-2">
+        <mxCell id="m9hvZuoETQjmmQWDhAQo-1" value="活动分析/素材管理" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="boNzhDrJQluZd5bqKfO3-1" source="boNzhDrJQluZd5bqKfO3-40" target="boNzhDrJQluZd5bqKfO3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="-30" />
-              <mxPoint x="-40" y="-30" />
+              <mxPoint x="85" y="-40" />
+              <mxPoint x="-240" y="-40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="boNzhDrJQluZd5bqKfO3-40" value="Apple Operator/Reseller" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontStyle=1" vertex="1" parent="boNzhDrJQluZd5bqKfO3-1">
-          <mxGeometry x="246.5" y="-110" width="50" height="37" as="geometry" />
+          <mxGeometry x="85.5" y="-110" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="boNzhDrJQluZd5bqKfO3-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IDaaS&amp;amp;Persona&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="boNzhDrJQluZd5bqKfO3-1">
           <mxGeometry x="-460" y="322" width="230" height="100" as="geometry" />
