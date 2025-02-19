@@ -2026,7 +2026,7 @@
           <mxGeometry x="591" y="322" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="chrzQEH4Z0ikTo7EBT3y-0" value="待定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontSize=15;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="boNzhDrJQluZd5bqKfO3-1">
-          <mxGeometry x="302" y="332" width="69" height="30" as="geometry" />
+          <mxGeometry x="302" y="324" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
