@@ -1768,7 +1768,7 @@
       <root>
         <mxCell id="boNzhDrJQluZd5bqKfO3-0" />
         <mxCell id="boNzhDrJQluZd5bqKfO3-1" parent="boNzhDrJQluZd5bqKfO3-0" />
-        <mxCell id="m9hvZuoETQjmmQWDhAQo-0" value="&lt;div&gt;Flowable Web Application&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" parent="boNzhDrJQluZd5bqKfO3-1" vertex="1">
+        <mxCell id="m9hvZuoETQjmmQWDhAQo-0" value="&lt;div&gt;Flowable Web Application&lt;/div&gt;&lt;div&gt;（Micro Frontend Module Implement）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" parent="boNzhDrJQluZd5bqKfO3-1" vertex="1">
           <mxGeometry x="280" y="1" width="376" height="130" as="geometry" />
         </mxCell>
         <mxCell id="boNzhDrJQluZd5bqKfO3-2" value="&lt;div&gt;Marketing Web Application&lt;/div&gt;&lt;div&gt;（Micro Frontend Module Implement）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" parent="boNzhDrJQluZd5bqKfO3-1" vertex="1">
