@@ -2452,7 +2452,7 @@
         <mxCell id="lCitVz31QCJID7UfkqTI-22" value="业务Api调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.693;exitY=0.97;exitDx=0;exitDy=0;entryX=0.564;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-6" target="lCitVz31QCJID7UfkqTI-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-6" value="网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lCitVz31QCJID7UfkqTI-6" value="网关(限流/安全防护)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="53" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lCitVz31QCJID7UfkqTI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-7" target="lCitVz31QCJID7UfkqTI-6">
