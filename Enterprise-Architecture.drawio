@@ -2449,25 +2449,29 @@
         <mxCell id="lCitVz31QCJID7UfkqTI-21" value="认证/鉴权" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-6" target="lCitVz31QCJID7UfkqTI-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-22" value="业务Api调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.693;exitY=0.97;exitDx=0;exitDy=0;entryX=0.564;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-6" target="lCitVz31QCJID7UfkqTI-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lCitVz31QCJID7UfkqTI-22" value="业务Api调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.693;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lCitVz31QCJID7UfkqTI-6" value="网关(限流/安全防护)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-228" y="53" width="648" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-7" target="lCitVz31QCJID7UfkqTI-6">
+        <mxCell id="lCitVz31QCJID7UfkqTI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.882;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-7" target="lCitVz31QCJID7UfkqTI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lCitVz31QCJID7UfkqTI-7" value="&lt;div&gt;For Tenant C Extension&lt;/div&gt;&lt;div&gt;(BFF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="-49" width="139" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-8" target="lCitVz31QCJID7UfkqTI-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lCitVz31QCJID7UfkqTI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.64;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-8" target="lCitVz31QCJID7UfkqTI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lCitVz31QCJID7UfkqTI-8" value="&lt;div&gt;For Tenant B Extension&lt;/div&gt;&lt;div&gt;(BFF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="117" y="-49" width="139" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-9" target="lCitVz31QCJID7UfkqTI-6">
+        <mxCell id="lCitVz31QCJID7UfkqTI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-9" target="lCitVz31QCJID7UfkqTI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lCitVz31QCJID7UfkqTI-9" value="&lt;div&gt;For Tenant A Extension&lt;/div&gt;&lt;div&gt;(BFF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2506,8 +2510,25 @@
         <mxCell id="lCitVz31QCJID7UfkqTI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.111;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-31" target="lCitVz31QCJID7UfkqTI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lCitVz31QCJID7UfkqTI-33" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="lCitVz31QCJID7UfkqTI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lCitVz31QCJID7UfkqTI-33" target="lCitVz31QCJID7UfkqTI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="-230" />
+              <mxPoint x="-230" y="-120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCitVz31QCJID7UfkqTI-33" value="&lt;div&gt;Platform&amp;nbsp;&lt;/div&gt;&lt;div&gt;Operator&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-171" y="-290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCitVz31QCJID7UfkqTI-35" value="&lt;div&gt;Tenant A&#39;s&lt;/div&gt;&lt;div&gt;Customer&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="21.5" y="-290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCitVz31QCJID7UfkqTI-36" value="&lt;div&gt;Tenant A&#39;s&lt;/div&gt;&lt;div&gt;Customer&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="171.5" y="-290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCitVz31QCJID7UfkqTI-38" value="&lt;div&gt;Tenant A&#39;s&lt;/div&gt;&lt;div&gt;Customer&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="-290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
