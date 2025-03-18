@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="第 1 页" id="LeY87rMNXh64mNIgYaXg">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-1" value="Raw Data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-2" value="Indicator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-3" value="Characteristic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-4" value="Rules Engine" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="321" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-5" value="&lt;div&gt;Vertical model&lt;/div&gt;&lt;div&gt;(Deep Learn)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="321" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-6" value="&lt;div&gt;Fine Tunning With Gpts&lt;/div&gt;&lt;div&gt;(ChatGPT、DeepSeek etc.)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="321" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-7" value="&lt;div&gt;Agents-Arrangement&lt;/div&gt;&lt;div&gt;(Agent、Multi Agents)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-8" value="Solution-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-9" value="Solution-2" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9g_YkgAF7B2nUVrNjDC1-10" value="Solution-N" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
