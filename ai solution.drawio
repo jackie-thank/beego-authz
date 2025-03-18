@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0" pages="2">
   <diagram name="Layered Architecture" id="LeY87rMNXh64mNIgYaXg">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,71 @@
         </mxCell>
         <mxCell id="9g_YkgAF7B2nUVrNjDC1-10" value="Solution-N" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UaRnuGJg1xvKfa7XqCyT" name="第 2 页">
+    <mxGraphModel dx="2261" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-1" target="aNm9Mc66Kli2ZAEx6I-2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-1" value="数据分析-角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-2" target="aNm9Mc66Kli2ZAEx6I-2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-2" value="算法工程-角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-4" target="aNm9Mc66Kli2ZAEx6I-2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-4" value="Agent编排-角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-6" target="aNm9Mc66Kli2ZAEx6I-2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-6" value="业务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-7" target="aNm9Mc66Kli2ZAEx6I-2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-7" value="技术" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="305" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-8" target="aNm9Mc66Kli2ZAEx6I-2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-8" value="运营" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-13" target="aNm9Mc66Kli2ZAEx6I-2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-13" value="&lt;div&gt;阿里&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;通义千问&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-14" target="aNm9Mc66Kli2ZAEx6I-2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-14" value="&lt;div&gt;宝尊&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;开发团队&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="400" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNm9Mc66Kli2ZAEx6I-2-17" target="aNm9Mc66Kli2ZAEx6I-2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-17" value="&lt;div&gt;宝尊&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;开发团队&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNm9Mc66Kli2ZAEx6I-2-21" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
