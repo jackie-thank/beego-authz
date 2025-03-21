@@ -1,25 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="第 1 页" id="Elb95-9UcGBIc47zvu9p">
-    <mxGraphModel dx="1305" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mhEgMub5AA9hyZn4WTvB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-1" target="mhEgMub5AA9hyZn4WTvB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhEgMub5AA9hyZn4WTvB-1" value="ToB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-21" value="Po" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-4">
+          <mxGeometry x="0.016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-1" value="ToB Supply Chain" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-20" value="so/do/ro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-5">
+          <mxGeometry x="-0.1882" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-18" value="状态反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-8">
+          <mxGeometry x="0.0765" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhEgMub5AA9hyZn4WTvB-2" value="ERP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-19" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-10">
+          <mxGeometry x="-0.1549" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-2" value="&lt;div&gt;ERP&lt;/div&gt;（ToC Fulfillment）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-3" value="BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -27,6 +47,11 @@
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-6" target="mhEgMub5AA9hyZn4WTvB-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-17" value="订单流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-7">
+          <mxGeometry x="-0.2529" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-6" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-280" y="400" width="240" height="80" as="geometry" />
