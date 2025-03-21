@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="第 1 页" id="Elb95-9UcGBIc47zvu9p">
-    <mxGraphModel dx="2514" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,10 +62,15 @@
         <mxCell id="mhEgMub5AA9hyZn4WTvB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-11" target="mhEgMub5AA9hyZn4WTvB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-28" value="商品/采销/盘点/调拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-15">
+          <mxGeometry x="-0.1594" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
           <mxGeometry x="175" y="70" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="mhEgMub5AA9hyZn4WTvB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.143;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-12" target="mhEgMub5AA9hyZn4WTvB-1">
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-14" value="审批" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.143;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-12" target="mhEgMub5AA9hyZn4WTvB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
@@ -74,8 +79,22 @@
         <mxCell id="mhEgMub5AA9hyZn4WTvB-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-13" target="mhEgMub5AA9hyZn4WTvB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-27" value="B2B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhEgMub5AA9hyZn4WTvB-16">
+          <mxGeometry x="-0.1744" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-22" value="财务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="30" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-23" value="供应链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="40" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-25" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="30" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
