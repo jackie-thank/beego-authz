@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="第 1 页" id="Elb95-9UcGBIc47zvu9p">
-    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1305" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="mhEgMub5AA9hyZn4WTvB-1" value="ToB" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mhEgMub5AA9hyZn4WTvB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-3">
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-2" target="mhEgMub5AA9hyZn4WTvB-6">
@@ -33,6 +33,24 @@
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-9" value="Warehouse" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-11" target="mhEgMub5AA9hyZn4WTvB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="175" y="70" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.143;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-12" target="mhEgMub5AA9hyZn4WTvB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="89" y="70" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhEgMub5AA9hyZn4WTvB-13" target="mhEgMub5AA9hyZn4WTvB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
