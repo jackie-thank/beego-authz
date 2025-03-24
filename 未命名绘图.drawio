@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SdKV_2HCbMFZZSK4l0Ff" name="solution-2">
-    <mxGraphModel dx="2799" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -572,7 +572,7 @@
             <mxPoint x="797" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9456MnWH-UCmM7McDY9Y-53" value="api call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9456MnWH-UCmM7McDY9Y-52">
+        <mxCell id="9456MnWH-UCmM7McDY9Y-53" value="api call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=15;" vertex="1" connectable="0" parent="9456MnWH-UCmM7McDY9Y-52">
           <mxGeometry x="-0.1324" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
