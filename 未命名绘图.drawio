@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8LPk251PXWMPxjx0-kf4" name="solution-1">
-    <mxGraphModel dx="3292" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1813" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,7 +312,7 @@
         <mxCell id="nlvfUX3G61QaLNqnrmrw-66" value="&lt;div&gt;api&lt;/div&gt;&lt;div&gt;call&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="nlvfUX3G61QaLNqnrmrw-75" target="nlvfUX3G61QaLNqnrmrw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Unified Web Application&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Unified&amp;nbsp; Web Framework)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Unified Web Application&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Unified&amp;nbsp; Web Framework-Frontend Web Page Implement)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="30" width="1000" height="85" as="geometry" />
         </mxCell>
         <mxCell id="nlvfUX3G61QaLNqnrmrw-57" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
