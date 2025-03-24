@@ -614,7 +614,7 @@
             <mxPoint x="355" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9456MnWH-UCmM7McDY9Y-58" value="&lt;div&gt;Adapter-Platform&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9456MnWH-UCmM7McDY9Y-58" value="&lt;div&gt;Adapter-Platform&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Trading Platform Integration)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-60" y="472" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9456MnWH-UCmM7McDY9Y-61" value="&lt;div&gt;po create/&lt;/div&gt;&lt;div&gt;inventory sync&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="9456MnWH-UCmM7McDY9Y-59" target="9456MnWH-UCmM7McDY9Y-15">
@@ -626,7 +626,7 @@
         <mxCell id="9456MnWH-UCmM7McDY9Y-69" value="sync do/ro" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="9456MnWH-UCmM7McDY9Y-59" target="9456MnWH-UCmM7McDY9Y-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9456MnWH-UCmM7McDY9Y-59" value="Adapter-Warehouse" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="9456MnWH-UCmM7McDY9Y-59" value="&lt;div&gt;Adapter-Warehouse&lt;/div&gt;&lt;div&gt;(3RD Warehouse Integration)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="756" y="472" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9456MnWH-UCmM7McDY9Y-68" value="Sales do" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="9456MnWH-UCmM7McDY9Y-59" target="9456MnWH-UCmM7McDY9Y-15">
