@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8LPk251PXWMPxjx0-kf4" name="solution-1">
-    <mxGraphModel dx="1813" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,25 +324,25 @@
         <mxCell id="nlvfUX3G61QaLNqnrmrw-59" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
           <mxGeometry x="779" y="-78" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-60" value="Boss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-60" value="Boss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="147" y="-99" width="30" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-61" value="财务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-61" value="财务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="335" y="-101" width="40" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-62" value="供应链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-62" value="供应链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="547" y="-99" width="40" height="21" as="geometry" />
         </mxCell>
         <mxCell id="nlvfUX3G61QaLNqnrmrw-63" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
           <mxGeometry x="542" y="-78" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-64" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-64" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="779" y="-97" width="40" height="21" as="geometry" />
         </mxCell>
         <mxCell id="nlvfUX3G61QaLNqnrmrw-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.162;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nlvfUX3G61QaLNqnrmrw-58" target="nlvfUX3G61QaLNqnrmrw-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-72" value="BI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-67">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-72" value="BI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-67">
           <mxGeometry x="-0.1037" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -352,7 +352,7 @@
             <mxPoint x="355.5999999999999" y="29.660000000000082" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-71" value="审批/BI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-68">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-71" value="审批/BI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-68">
           <mxGeometry x="-0.2027" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -362,7 +362,7 @@
             <mxPoint x="565.6000000000004" y="29.660000000000082" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-73" value="商品/采销/盘点/调拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-69">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-73" value="商品/采销/盘点/调拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-69">
           <mxGeometry x="-0.1381" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -370,7 +370,7 @@
         <mxCell id="nlvfUX3G61QaLNqnrmrw-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.803;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nlvfUX3G61QaLNqnrmrw-59" target="nlvfUX3G61QaLNqnrmrw-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nlvfUX3G61QaLNqnrmrw-74" value="B2B销售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-70">
+        <mxCell id="nlvfUX3G61QaLNqnrmrw-74" value="B2B销售" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="nlvfUX3G61QaLNqnrmrw-70">
           <mxGeometry x="0.0577" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
