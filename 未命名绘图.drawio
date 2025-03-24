@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="第 1 页" id="Elb95-9UcGBIc47zvu9p">
-    <mxGraphModel dx="2514" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mhEgMub5AA9hyZn4WTvB-2" value="&lt;div&gt;聚水潭ERP&lt;/div&gt;（ToC Fulfillment）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-2" value="&lt;div&gt;ERP&lt;/div&gt;（ToC Fulfillment）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-3" value="BI" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -114,6 +114,54 @@
         </mxCell>
         <mxCell id="mhEgMub5AA9hyZn4WTvB-25" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="39" width="30" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-34" value="天猫：供分销" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="60" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-36" value="淘小程序" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="130" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-37" value="天猫国际" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-10" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-38" value="小红书" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="200" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-39" value="海之悦" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-40" value="欣士达" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="340" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-41" value="抖音" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="820" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-42" value="海带" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="680" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-43" value="有赞" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="750" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-44" value="JD" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="610" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-45" value="海拍客" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="890" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-46" value="菜鸟保税仓" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-47" value="菜鸟保税中心仓" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-48" value="3PL保税仓" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-49" value="JD保税仓-非JD健康" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="840" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhEgMub5AA9hyZn4WTvB-50" value="3PL保税仓-JD健康" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="920" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
