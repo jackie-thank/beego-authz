@@ -665,10 +665,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pUtb-U0r95plcohkfCGf" name="业务概览图">
-    <mxGraphModel dx="986" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="88WTyb43IO8RTu9EUkzX-1" value="菜鸟保税仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-2" value="菜鸟中心保税仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-3" value="3PL保税仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-4" value="京东保税仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-5" target="88WTyb43IO8RTu9EUkzX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-17" value="切片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="88WTyb43IO8RTu9EUkzX-15">
+          <mxGeometry x="0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-18" value="切片" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-5" target="88WTyb43IO8RTu9EUkzX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-5" value="逻辑仓-天猫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-6" target="88WTyb43IO8RTu9EUkzX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-6" value="逻辑仓-京东" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-7" value="天猫-a2海外旗舰店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-9" value="京东-海外旗舰店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-10" target="88WTyb43IO8RTu9EUkzX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-10" target="88WTyb43IO8RTu9EUkzX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-10" target="88WTyb43IO8RTu9EUkzX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.564;exitY=0.026;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="88WTyb43IO8RTu9EUkzX-10" target="88WTyb43IO8RTu9EUkzX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88WTyb43IO8RTu9EUkzX-10" value="货主-礼乐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
