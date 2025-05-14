@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram id="F0W5LtZeSDdKuc8qU7w1" name="Page-1">
-    <mxGraphModel dx="2268" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,10 +163,10 @@
         <mxCell id="w8T3L-g9OlZxXHHQqmX--61" value="SSL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;fontStyle=1" vertex="1" parent="w8T3L-g9OlZxXHHQqmX--59">
           <mxGeometry x="11" y="15" width="11" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="w8T3L-g9OlZxXHHQqmX--63" value="&lt;div&gt;Orders&lt;/div&gt;&lt;div&gt;RecommendList&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w8T3L-g9OlZxXHHQqmX--63" value="&lt;div&gt;Orders&lt;/div&gt;&lt;div&gt;RecommendList&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8T3L-g9OlZxXHHQqmX--64" value="&lt;div&gt;Inventory&lt;/div&gt;&lt;div&gt;Order Update&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w8T3L-g9OlZxXHHQqmX--64" value="&lt;div&gt;Inventory&lt;/div&gt;&lt;div&gt;Order Update&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8T3L-g9OlZxXHHQqmX--65" value="POS Backend" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -213,10 +213,10 @@
         <mxCell id="w8T3L-g9OlZxXHHQqmX--80" value="SSL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;fontStyle=1" vertex="1" parent="w8T3L-g9OlZxXHHQqmX--78">
           <mxGeometry x="11" y="16" width="11" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="w8T3L-g9OlZxXHHQqmX--81" value="&lt;div&gt;Orders&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w8T3L-g9OlZxXHHQqmX--81" value="&lt;div&gt;Outbound&lt;/div&gt;&lt;div&gt;Orders&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="571" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8T3L-g9OlZxXHHQqmX--82" value="&lt;div&gt;Shipment Confirmation&lt;/div&gt;&lt;div&gt;Inventory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w8T3L-g9OlZxXHHQqmX--82" value="&lt;div&gt;Shipment Confirmation&lt;/div&gt;&lt;div&gt;Inventory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="571" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8T3L-g9OlZxXHHQqmX--85" value="POS Endpoint" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
