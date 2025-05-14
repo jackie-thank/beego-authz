@@ -39,7 +39,7 @@
         <mxCell id="w8T3L-g9OlZxXHHQqmX--10" value="aws" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="238" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w8T3L-g9OlZxXHHQqmX--11" value="XPos AL" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w8T3L-g9OlZxXHHQqmX--11" value="ShopDog" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="148" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w8T3L-g9OlZxXHHQqmX--12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
