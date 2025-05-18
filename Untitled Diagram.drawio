@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
-  <diagram id="F0W5LtZeSDdKuc8qU7w1" name="Page-1">
-    <mxGraphModel dx="3888" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5" pages="2">
+  <diagram id="F0W5LtZeSDdKuc8qU7w1" name="xxx-brand-architecture">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,6 +251,56 @@
         </mxCell>
         <mxCell id="w8T3L-g9OlZxXHHQqmX--97" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#007FFF;shape=mxgraph.azure.mobile;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="243" y="623" width="32" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="LBank-Architecture" id="rgR2hAT1_Es0y0zYv-nF">
+    <mxGraphModel dx="3061" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8eTB-zk6Q-nObX73ZiYc-0" />
+        <mxCell id="8eTB-zk6Q-nObX73ZiYc-1" parent="8eTB-zk6Q-nObX73ZiYc-0" />
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="8eTB-zk6Q-nObX73ZiYc-1" source="BiOI3DxQynZyZ9b2UmLA-0" target="BiOI3DxQynZyZ9b2UmLA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-0" value="Open Api Ingress&amp;nbsp; Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry y="200" width="1240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-1" value="Open Spi Engress Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry y="680" width="1240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="8eTB-zk6Q-nObX73ZiYc-1" source="BiOI3DxQynZyZ9b2UmLA-2" target="BiOI3DxQynZyZ9b2UmLA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-2" value="&lt;div&gt;App&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="250" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="8eTB-zk6Q-nObX73ZiYc-1" source="BiOI3DxQynZyZ9b2UmLA-4" target="BiOI3DxQynZyZ9b2UmLA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-4" value="&lt;div&gt;Online&lt;/div&gt;&lt;div&gt;Website&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="870" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-7" value="RealTime Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="120" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="180" y="539" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-9" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="180" y="589" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="8eTB-zk6Q-nObX73ZiYc-1" source="BiOI3DxQynZyZ9b2UmLA-1" target="BiOI3DxQynZyZ9b2UmLA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-11" value="&lt;div&gt;Order&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="550" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="8eTB-zk6Q-nObX73ZiYc-1">
+          <mxGeometry x="190" y="430" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="BiOI3DxQynZyZ9b2UmLA-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="8eTB-zk6Q-nObX73ZiYc-1" source="BiOI3DxQynZyZ9b2UmLA-7" target="BiOI3DxQynZyZ9b2UmLA-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
